@@ -175,7 +175,7 @@
 		<value>Você é um Colonizado! Escolha alguém para ser sua metrópole - se ele(a) morrer, a instabilidade política te transformará em Terrorista.</value>
 	</string>
 	<string key="RoleInfoBeholder">
-		<value>Você é o Observador, você saberá quem é a verdadeira espiã (e não o ####trouxa). Use isso para ajudar seu time, as Nações!</value>
+		<value>Você é o Observador, você saberá quem é a verdadeira espiã (e não o conspiracionista). Use isso para ajudar seu time, as Nações!</value>
 	</string>
 	<string key="RoleInfoApprenticeSeer">
 		<value>Você é a Espiã Iniciante, e joga pelas Nações.  Caso a verdadeira Espiã morra, você tomará seu lugar como Espiã.</value>
@@ -202,109 +202,109 @@
 		<value>Os delegados votaram, em meio a dúvidas e suspeitas. {0} está morto(a). {1}</value>
 	</string>
 	<string key="LynchTie">
-		<value>Incapazes de chegar a uma decisão final sobre quem sancionar, as delegações paranoicas retornam para suas camas com seus documentos, frustrados...</value>
+		<value>Incapazes de chegar a uma decisão final sobre quem sancionar, as delegações paranoicas terminam mais uma sessão, frustradas...</value>
 	</string>
 	<string key="NoLynchVotes">
 		<value>Alguma coisa está cheirando mal, ninguém votou!  Ninguém será sancionado hoje.....</value>
 	</string>
 	<string key="DetectiveEaten">
-		<value>As delegações se reúnem durante a manhã, mas ninguém consegue achar {0} entre eles.  Um oficial deseperado entra na sala e avisa: os terroristas sequestraram {0}! {0} era a Comissão!</value>
+		<value>As delegações se reúnem durante a manhã, mas ninguém consegue achar {0} entre eles.  Um oficial deseperado entra na sala e avisa: os terroristas sequestraram e mataram {0}! {0} era a Comissão!</value>
 	</string>
 	<string key="GuardianEaten">
-		<value>A manhã chega e, para a surpresa de todos, empalado no topo da cruz da igreja estava o corpo de {0}, o Anjo da Guarda, sem vida.</value>
+		<value>A sessão começa com um documento assustador: uma gravação de {0}, o Capacete Azul, amarrado a pesos e jogado no alto mar.</value>
 	</string>
 	<string key="GunnerEaten">
-		<value>Todos saem de casa e então encontram pedaços de uma espingarda despedaçada... em seguida pernas... então dedos...  e flutuando no chafariz da praça, o corpo de {0}, morto(a) por terroristas.  Vocês perderam a OTAN.</value>
+		<value>Todos resumem a sessão e então encontram vários documentos militares. Deopis, medalhas. Por fim, o corpo de {0}, envenenadx por terroristas.  Vocês perderam a OTAN.</value>
 	</string>
 	<string key="SeerEaten">
-		<value>Os aldeões acordam ao amanhecer e encontram pedaços do que um dia foi {0} em cima de uma mesa de búzios e com cartas de tarô espalhadas pelo chão.  A Espiã está morta.</value>
+		<value>A sessão resume ao amanhecer e burburinhos entre as delegações comentam sobre uma falha crítica nos órgãos de inteligência de um dos países. {0} foi interceptadx durante uma investigação.  A Espiã está morta.</value>
 	</string>
 	<string key="DrunkEaten">
-		<value>Todos acordam com um forte cheiro de álcool e madeira em chamas...  O boteco está pegando fogo!!!!  Após apagar o incêndio, os restos de {0} são encontrados, tostadinhos....</value>
+		<value>Todos acordam com um forte cheiro de álcool e madeira em chamas...  O boteco está pegando fogo!!!!  Após apagar o incêndio, ####bebum os restos de {0} são encontrados, tostadinhos....</value>
 	</string>
 	<string key="FoolEaten">
-		<value>À medida que o sol se levanta sobre a Aldeia, os aldeões encontram {0} deitado(a) em cima de uma mesa de búzios, mas com cartas de.... Super Trunfo das Meninas Super Poderosas??? HAHAHAHAH QUE TROUXA!</value>
+		<value>À medida que o sol se levanta sobre a sala de reuniões, os oficiais encontram {0} falecidx em cima de uma montanha de livros sobre... reptilianos? Pobre conspiracionista!</value>
 	</string>
 	<string key="DefaultEaten">
-		<value>À medida que todos se levantam durante a manhã, sentem um cheiro horrível.  Eles seguem o cheiro para encontrar {0} esquartejado(a) no chiqueiro.  NOMNOMNOMNOM {1}</value>
+		<value>O terror preenche a sala de reuniões. Notícias da morte do oficial {0}, esquartejado pelos terroristas. {1}</value>
 	</string>
 	<string key="HunterKilledCultist">
-		<value>Um enorme fedor está sendo exalado pela casa de {0}... Os aldeões decidem então entrar lá e encontram um corpo, seus dentes espalhados no chão e agulhas embaixo das unhas deixam bem claro o que houve... Um membro da Seita foi torturado e morto pelo Inquisidor!</value>
+		<value>Os oficiais da reunião estão preocupados. {0}, em um golpe político suave, foi assassinado e reposto por alguém da oposição... Parece muito que a Potência destronou um membro da Nova Ordem Mundial!</value>
 	</string>
 	<string key="NoAttack">
-		<value>Os aldeões se juntam no centro da Aldeia durante a manhã e dão um suspiro de alívio - parece que não houve nenhum ataque na última noite.</value>
+		<value>As delegações se juntam mais uma vez, e o quórum permanece o mesmo. Nada aconteceu esta noite!</value>
 	</string>
 	<string key="CursedBitten">
-		<value>Você foi atacado(a) pelos lobos.  Por estar amaldiçoado(a), você se tornou um lobo!</value>
+		<value>Você foi atacadx pelos terroristas.  Por ser um Extremista, você se junta a eles!</value>
 	</string>
 	<string key="CursedBittenToWolves">
-		<value>{0} foi mordido(a).... Mas estava amaldiçoado(a) e se tornou um lobo! Parabéns pelo seu novo companheiro!</value>
+		<value>{0} foi interceptado.... Mas era um extremista simpatizante e se tornou um terrorista! Parabéns pelo seu novo companheiro!</value>
 	</string>
 	<string key="WolvesEatYou" isgif="true">
-		<value>Ah não!  Os lobos te devoraram. NOMNOMNOMNOM</value>
+		<value>Ah não!  Os terroristas te bombardearam. BOOOOOM!</value>
 	</string>
 	<string key="WolvesEatDrunk">
-		<value>Ah não! {0} estava bêbado(a)!  Agora você está bêbado(a) e não poderá atacar na próxima noite...</value>
+		<value>Ah não! {0} estava bêbado(a)! ####bebum Agora você está bêbado(a) e não poderá atacar na próxima noite...</value>
 	</string>
 	<string key="GuardWolf">
-		<value>Você tentou proteger um lobo!  O lobo te devorou!</value>
+		<value>Você tentou proteger um terrorista!  O terrorista te assassinou!</value>
 	</string>
 	<string key="GuardSaved">
 		<value>Você salvou a vida de {0}!</value>
 	</string>
 	<string key="GuardNoAttack">
-		<value>{0} não foi atacado(a), então você não fez nada muito útil. </value>
+		<value>{0} não foi atacadx, então você não fez nada muito útil. </value>
 	</string>
 	<string key="GuardEmptyHouse">
-		<value>Você foi proteger {0}, mas ele(a) não estava em casa!</value>
+		<value>Você foi proteger {0}, mas elx não estava em casa!</value>
 	</string>
 	<string key="GuardSavedYou">
-		<value>Um anjinho da guarda estava cuidando de você na noite passada e espantou os lobos! Que bênção!</value>
+		<value>Um Capacete Azul estava cuidando de você na noite passada e afastou os terroristas! Obrigado, ONU!</value>
 	</string>
 	<string key="HarlotEaten">
-		<value>A Cortesã escolheu um péssimo dia para tirar folga e ficar em casa.  {0} foi devorado(a) pelos lobos!</value>
+		<value>O Embaixador escolheu um péssimo dia para tirar folga e ficar em casa.  {0} foi atacadx pelos terroristas!</value>
 	</string>
 	<string key="HarlotNotHome">
-		<value>Estranho... {0} não estava em casa!  Sem jantar pra você hoje...</value>
+		<value>Estranho... {0} não estava em seu consulado!  Sem papo pra você hoje...</value>
 	</string>
 	<string key="HarlotFuckWolf">
-		<value>Você entrou na casa de {0} para se divertir um pouco mas descobriu tarde demais que ele(a) era um lobo.  Você está morto(a).</value>
+		<value>Você entrou no consulado de {0} procurando alguns documentos mas descobriu tarde demais que elx era um terrorista.  Você morreu.</value>
 	</string>
 	<string key="HarlotFuckedWolfPublic">
-		<value>{0} dormiu na casa errada noite passada! Seu corpo, antes safado e divertido, foi encontrado pregado cruelmente na porta da igreja...  que triste :(</value>
+		<value>{0} visitou o consulado errado! Seu paletó, antes belo e vistoso, foi encontrado em pedacinhos na frente da embaixada...  que triste :(</value>
 	</string>
 	<string key="HarlotFuckedVictimPublic">
-		<value>{0} foi dormir na casa de {1}, pronto(a) para ter um pouco de diversão e aliviar a tensão.  Entretanto, ele(a) encontrou um lobo devorando {1}!  O lobo se vira rapidamente em direção a {0} e....  {0} está morta.</value>
+		<value>{0} visitou o consulado de {1}, prontx para fazer diplomacia.  Entretanto, elx encontrou um terrorista sequestrando {1}!  Ele se vira rapidamente em direção a {0} e....  {0} está mortx.</value>
 	</string>
 	<string key="HarlotVisitNonWolf">
-		<value>Você percebe que {0} não é um lobo, já que vocês fizeram um sexo gostoso e selvagem a noite toda!</value>
+		<value>Você percebe que {0} não é um terrorista, já que vocês passaram o dia todo revendo documentos e discutindo diplomacia!</value>
 	</string>
 	<string key="HarlotVisitYou">
-		<value>No meio da noite alguém bate na sua porta e diz que quer seu corpo. Estava muito escuro para você ver quem era, mas você estava na seca e precisando de umazinha. Assim, topou, e no fim a pessoa acabou saindo de fininho enquanto você dormia.</value>
+		<value>Um diplomata estrangeiro veio lhe visitar. Vocês conversaram muito sobre a conjuntura política entre seus países, mas depois de tanta discussão confidencial, esqueceu do nome do oficial.</value>
 	</string>
 	<string key="DetectiveCaught">
-		<value>Você flagrou {0} xeretando por aí! Ele(a) é o Detetive!</value>
+		<value>Você flagrou {0} xeretando por aí! Ele(a) é a Comissão!</value>
 	</string>
 	<string key="DetectiveSnoop">
 		<value>Sua bisbilhotada provou que {0} é {1}</value>
 	</string>
 	<string key="HarlotShot">
-		<value>Parece que {0} não gostou da noite com a Cortesã! A Atiradora ficou louca e se vingou. {1} está morto(a).</value>
+		<value>Parece que {0} não estava a fim de conversar com o Embaixador! A OTAN o considerou uma ameaça e o assasinou. {1} está morto(a).</value>
 	</string>
 	<string key="DefaultShot">
-		<value>De repente, um tiro é disparado.  Os aldeões se viram para ver {0} de pé em cima do corpo de {1}, com a arma ainda apontada para a cabeça e os miolos espalhados.  {2}.</value>
+		<value>Notícias urgentes falam de uma possível ação militar. Novos documentos de trabalho denunciam uma intervenção de {0} sobre {1}, completamente incapacitado pelo conflito.  {2}.</value>
 	</string>
 	<string key="WolfWins" isgif="true">
-		<value>O lobo venceu!</value>
+		<value>O terrorista venceu!</value>
 	</string>
 	<string key="WolvesWin" isgif="true">
-		<value>Os lobisomens venceram!</value>
+		<value>Os terroristas venceram!</value>
 	</string>
 	<string key="VillageWins" isgif="true">
-		<value>Os aldeões  venceram! Todos os vilões morreram....</value>
+		<value>As Nações venceram! Todos os vilões morreram....</value>
 	</string>
 	<string key="TannerWins" isgif="true">
-		<value>Ah não! Vocês lincharam o Suicida!  Ele venceu o jogo, suas antas!</value>
+		<value>Ah não! Vocês sancionaram o ####Suicida!  Ele venceu o jogo, suas antas!</value>
 	</string>
 	<string key="RemainingPlayersEnd">
 		<value>Jogadores restantes, papéis e lado:</value>
@@ -313,46 +313,46 @@
 		<value>{0} votou para converter {1}</value>
 	</string>
 	<string key="CultConvertCultHunter">
-		<value>{0} foi enviado(a) para fazer o trabalho sujo e converter {1}... Entretanto, ele era o Inquisidor, e tinha uma câmara de tortura especial pra Seita! {0} está morto(a)!</value>
+		<value>{0} foi enviadx para fazer o trabalho sujo e converter {1}... Entretanto, ele era a Potência, e rapidamente instalou um general aliado no país! {0} está morto(a)!</value>
 	</string>
 	<string key="CultHunterKilledCultVisit">
-		<value>{0} foi à sua casa na noite passada, pronto(a) para te converter....  Mas você tinha uma câmara de tortura só pra esse tipo de gente. Um membro da Seita está morto... {1} restante(s)!</value>
+		<value>{0} foi ao seu governo na noite passada, prontx para te converter....  Mas você tinha uma lista pronta de generais capazes de dar cabo e substituir esse tipo de gente. Um membro da Nova Ordem Mundial está morto... {1} restante(s)!</value>
 	</string>
 	<string key="CultConvertYou">
-		<value>Você foi convertido(a) e agora é um membro da Seita.  Durante a noite, você poderá tentar converter outros jogadores.</value>
+		<value>Você foi convertidx e agora é um membro da Nova Ordem Mundial.  Durante a noite, você poderá tentar converter outros jogadores.</value>
 	</string>
 	<string key="CultJoin">
-		<value>{0} se juntou à Seita!</value>
+		<value>{0} se juntou à Nova Ordem Mundial!</value>
 	</string>
 	<string key="CultVisitEmpty">
-		<value>{0} foi enviado(a) para fazer o trabalho sujo e converter {1}... Mas ninguém estava em casa!</value>
+		<value>{0} foi enviadx para fazer o trabalho sujo e converter {1}... Mas os oficiais estavam de férias!</value>
 	</string>
 	<string key="CultWins">
-		<value>Todos os lobos morreram e as únicas pessoas sobreviventes pertencem à Seita..  A Seita venceu! A SEITA QUE DÓI MENOS!</value>
+		<value>Todos os terroristas morreram e as únicas Nações sobreviventes pertencem à Ordem..  A Nova Ordem Mundial venceu!</value>
 	</string>
 	<string key="HunterVisitDead">
 		<value>Você foi inquirir {0}, mas chegando lá só encontrou seu corpo sem vida!</value>
 	</string>
 	<string key="HunterFindCultist">
-		<value>Você invade a casa de {0} e vê as marcas da Seita nas paredes, você sabe o que fazer... Depois das torturas, ele se confessa, e você sabe muito bem como expurgar os pecados desse tipo: Com a morte!</value>
+		<value>Você invade o consulado de {0} e encontra correspondências com a Ordem nos gabinetes - já sabe o que fazer... Você faz umas ligações e causa instabilidade política no país, instalando então um golpe militar!</value>
 	</string>
 	<string key="HunterFailedToFind">
-		<value>Você invade a casa de {0} mas não há nenhum sinal da Seita.  Ele(a) não faz parte da Seita... Ainda...</value>
+		<value>Você invade o consulado de {0} mas não há nenhum sinal da Ordem.  Elx não faz parte da Nova Ordem Mundial... Ainda...</value>
 	</string>
 	<string key="WildChildToWolves">
 		<value>A metrópole de {0} acabou de morrer! Jogado em instabilidade política, elx se tornou um terrorista!</value>
 	</string>
 	<string key="WildChildTransform">
-		<value>{0} foi morto(a)! Num ataque de fúria, você se torna um lobisomem! Seus novos companheiros são: {1}</value>
+		<value>{0} foi mortx! O caos político dá voz às pessoas erradas, você se torna um terrorista! Seus novos companheiros são: {1}</value>
 	</string><!-- Villager, Drunk, Harlot, Seer, Traitor, GuardianAngel, Detective, Wolf, Cursed, Gunner, Tanner, Fool, WildChild, Beholder, ApprenticeSeer, Cultist, CultistHunter-->
 	<string key="Villager">
 		<value>o Delegado 👱</value>
 	</string>
 	<string key="Drunk">
-		<value>o Retrógrado 🍻</value>
+		<value>o Retrógrado ####bebum🍻</value>
 	</string>
 	<string key="Harlot">
-		<value>a Cortesã 💋</value>
+		<value>o Embaixador 💋</value>
 	</string>
 	<string key="Seer">
 		<value>a Espiã 👳</value>
@@ -364,7 +364,7 @@
 		<value>o Anjo da Guarda 👼</value>
 	</string>
 	<string key="Detective">
-		<value>o Detetive 🕵</value>
+		<value>a Comissão 🕵</value>
 	</string>
 	<string key="Wolf">
 		<value>um Terrorista 🐺</value>
@@ -376,10 +376,10 @@
 		<value>a OTAN 🔫</value>
 	</string>
 	<string key="Tanner">
-		<value>o Suicida 👺</value>
+		<value>o Suicida#### 👺</value>
 	</string>
 	<string key="Fool">
-		<value>o(a) Trouxa 🃏</value>
+		<value>o Conspiracionista 🃏</value>
 	</string>
 	<string key="WildChild">
 		<value>o Colonizado 👶</value>
@@ -391,7 +391,7 @@
 		<value>a Aprendiz de Espião 🙇</value>
 	</string>
 	<string key="Cultist">
-		<value>um membro da Seita 👤</value>
+		<value>um membro da Nova Ordem Mundial 👤</value>
 	</string>
 	<string key="CultistHunter">
 		<value>o Inquisidor 💂</value>
@@ -406,55 +406,55 @@
 		<value>🙂 Presente e votante</value>
 	</string>
 	<string key="PlayersAlive">
-		<value>Jogadores vivos</value>
+		<value>Quórum</value>
 	</string><!-- New strings 4 MAY 2016-->
 	<string key="Mason">
-		<value>um Maçom 👷</value>
+		<value>um Europeu 👷</value>
 	</string>
 	<string key="RoleInfoMason">
-		<value>Você é um Maçom, e participa de uma sociedade secreta que tenta ajudar a Aldeia.  Se houver outros maçons, você saberá quem são.  Caso contrário, você será um simples aldeão.</value>
+		<value>Você é um Europeu, e participa da União Europeia, que procura ajudar outras Nações.  Se houver outros europeus, você saberá quem são.  Caso contrário, você será um simples delegado.</value>
 	</string>
 	<string key="MasonEaten">
-		<value>À medida que todos se levantam durante a manhã, o corpo de {0} é encontrado num templo local, com um esquadro, um compasso e uma estrela de cinco pontas à sua volta. Um dos maçons está morto.</value>
+		<value>À medida que todos se levantam durante a manhã, o corpo de {0} é encontrado fuzilado no Parlamento Europeu. Um dos europeus está morto.</value>
 	</string>
 	<string key="MasonTeam">
-		<value>  Os maçons são: {0}</value>
+		<value>  Os europeus são: {0}</value>
 	</string><!-- new strings May 6 2016-->
 	<string key="CultTargetDead">
-		<value>O membro mais recente da Seita corre para a casa de {0} para fazer o trabalho sujo e convertê-lo(a), mas encontra uma bagunça, muito sangue e pedacinhos... Seu alvo virou janta!</value>
+		<value>O membro mais recente da Ordem corre para a casa de {0} para fazer o trabalho sujo e convertê-lx, mas encontra uma bagunça, muito sangue e pedacinhos... Seu alvo foi assasinado!</value>
 	</string>
 	<string key="GuardBlockedWolf">
-		<value>A matilha se dirige à casa de {0}, para o banquete, mas lá dá de cara com uma criatura alta, elevada e cercada por luz, armada com uma espada e uma lança. O Anjo sai em defesa do alvo e, após uma luta ao som dos mais variados hits gospel, o lado faminto sai derrotado e foge para casa.</value>
+		<value>Os terroristas se dirigem à casa de {0}, para fazer a festa, mas lá dão de cara com uma pessoa de farda, um distintivo da ONU, armada até os dentes. O Capacete Azul sai em defesa do alvo e, após uma luta intensa, o lado caótico sai derrotado e foge para sua base.</value>
 	</string><!-- new strings May 9 2016-->
 	<string key="CultUnableToConvert">
-		<value>{0} foi enviado(a) para fazer o trabalho sujo, mas as crenças de {1} eram fortes de mais para serem corrompidas. :(</value>
+		<value>{0} foi enviadx para fazer o trabalho sujo, mas a influência do hegemon em {1} era forte demais para ser corrompida. :(</value>
 	</string><!-- new string May 12 2016-->
 	<string key="NameExists">
 		<value>@{1}, um(a) jogador(a) com nome {0} já se juntou à partida. Por favor mude seu nome para poder entrar no jogo.</value>
 	</string>
 	<string key="HarlotDiscoverCult">
-		<value>Você dormiu na casa de {0} para se divertir um pouco, mas enquanto saia você notou através de uma porta semiaberta um estranho altar dentro de um quarto....</value>
+		<value>Você visitou a embaixada de {0} para se discussões importantíssimas, mas dentre os documentos discutidos você encontra algumas cartas falando sobre uma renovação da conjuntura política...</value>
 	</string><!-- new string May 13 2016-->
 	<string key="Was">
 		<value>era</value>
 	</string>
 	<string key="GenericDeathNoReveal">
-		<value>À medida que todos se levantam e saem de casa durante a manhã, percebem a ausência de {0}... Quando checam sua casa, encontram seu corpo sem vida.</value>
+		<value>À medida que todos se apresentam durante o início da sessão, percebem a ausência de {0}... Ao checarem seu quarto no hotel, encontram-nx mortx e estiradx.</value>
 	</string>
 	<string key="MasonConverted">
-		<value>Estranho.... {0} não apareceu no templo maçônico esta manhã.... O.o</value>
+		<value>Estranho.... {0} não compareceu ao Parlamento Europeu.... O.o</value>
 	</string><!-- new string May 16 2016-->
 	<string key="FleeDisabled">
-		<value>Você tenta fugir mas os rumores de que há lobisomens fizeram com que administradores fechassem as saídas para os lobos não fugirem! Boa sorte com isso!</value>
+		<value>Você tenta fugir, mas os rumores de que há terroristas fizeram com que a Mesa Diretora fechasse as saídas para os terroristas não fugirem! Boa sorte com isso!</value>
 	</string>
 	<string key="IsDead"><!-- used when gunner shoots a player -->
 		<value>Está morta!</value>
 	</string><!-- MORE STRINGS May 16, 2016 -->
 	<string key="AdminAdded" deprecated="true"><!-- 0 - target's name -->
-		<value>{0} foi adicionado(a) à lista de administradores. Use /config para mudar as configurações do grupo.</value>
+		<value>{0} foi adicionado(a) à Mesa Diretora. Use /config para mudar as configurações do grupo.</value>
 	</string>
 	<string key="MultipleGames" deprecated="true">
-		<value>Seu grupo conseguiu iniciar múltiplos jogos...</value>
+		<value>Seu grupo conseguiu iniciar múltiplas sessões...</value>
 	</string>
 	<string key="GroupQueue" deprecated="true"><!-- 0 - target's name --><!-- 1 - target's name -->
 		<value>Seu grupo agora está na fila.  Posição: {0} / {1}</value>
@@ -499,139 +499,139 @@
 		<value>Foi definido o idioma {0}.</value>
 	</string>
 	<string key="NoSeer">
-		<value>Não tem vidente!</value>
+		<value>Não tem Espiã!</value>
 	</string>
 	<string key="TimesUp">
 		<value>Tempo esgotado!</value>
 	</string><!-- new strings june 10 2016 -->
 	<string key="RoleInfoCupid">
-		<value>Você é o Cupido. Enviado à Aldeia de fraldão, com um arco e duas flechas, você pode escolher dois jogadores que irão se amar para toda eternidade. Se um deles morrer, o outro morrerá de tristeza. Depois de unir dois amantes, você pode voltar ao seu papel como Aldeão.</value>
+		<value>Você é o ####Cupido. Enviado à Aldeia de fraldão, com um arco e duas flechas, você pode escolher dois jogadores que irão se amar para toda eternidade. Se um deles morrer, o outro morrerá de tristeza. Depois de unir dois amantes, você pode voltar ao seu papel como Aldeão.</value>
 	</string>
 	<string key="RoleInfoDoppelganger">
-		<value>Você é uma Doppelgänger. A Lenda diz que seus ancestrais eram metamorfos, e podiam assumir qualquer forma que quisessem! Escolha um jogador, quando ele morrer você assumirá o papel dele no jogo.</value>
+		<value>Você é uma ####Doppelgänger. A Lenda diz que seus ancestrais eram metamorfos, e podiam assumir qualquer forma que quisessem! Escolha um jogador, quando ele morrer você assumirá o papel dele no jogo.</value>
 	</string>
 	<string key="RoleInfoHunter">
-		<value>Você é o Caçador(a)! Seu revólver é o seu amante e você está com ele o tempo todo, até dorme com ele! Se você morrer, pode escolher alguém para matar. E se os Lobos te visitarem a noite, você não é alguém que aceitaria ir sozinho, mas no escuro, você não consegue escolher quem matar.</value>
+		<value>Você é o ####Caçador(a)! Seu revólver é o seu amante e você está com ele o tempo todo, até dorme com ele! Se você morrer, pode escolher alguém para matar. E se os Lobos te visitarem a noite, você não é alguém que aceitaria ir sozinho, mas no escuro, você não consegue escolher quem matar.</value>
 	</string>
 	<string key="RoleInfoSerialKiller">
-		<value>Você é o Serial Killer. Seu time é você mesmo e os outros jogadores não são mais que seus brinquedinhos. Toda noite você pode escolher um jogador para matar e adicionar para sua coleção de corpos.</value>
+		<value>Você é o Imperador. Seu time é você mesmo e os outros jogadores não são mais que seus brinquedinhos. Toda noite você pode escolher uma Nação para anexar e adicionar para sua coleção de territórios.</value>
 	</string>
 	<string key="CupidChosen">
-		<value>Você foi atingido(a) pela flecha do amor. A memória de {0} nunca deixará seu coração. Se um de vocês morrer, o outro irá até o mundo dos mortos para que ambos continuem juntos. Se o time de um de vocês vencer, ambos vencem. Mas, se ambos forem os únicos vivos no final da partida, o casal sai vitorioso e todos os demais jogadores são derrotados.</value>
+		<value>Você foi atingido(a) ####pela flecha do amor. A memória de {0} nunca deixará seu coração. Se um de vocês morrer, o outro irá até o mundo dos mortos para que ambos continuem juntos. Se o time de um de vocês vencer, ambos vencem. Mas, se ambos forem os únicos vivos no final da partida, o casal sai vitorioso e todos os demais jogadores são derrotados.</value>
 	</string>
 	<string key="HunterLynchedChoice">
-		<value>A aldeia resolveu linchar você! É a sua última chance de usar seu querido três oitão!</value>
+		<value>A aldeia resolveu sancionar você! É a sua última chance de usar seu querido ####três oitão!</value>
 	</string>
 	<string key="HunterNoChoiceLynched">
-		<value>{0} tenta alcançar sua pistola enquanto o nó aperta, mas seus dedos estão cansados e, antes de alcançar o coldre, seu pescoço estala na forca, anunciando sua morte...</value>
+		<value>{0}#### tenta alcançar sua pistola enquanto o nó aperta, mas seus dedos estão cansados e, antes de alcançar o coldre, seu pescoço estala na forca, anunciando sua morte...</value>
 	</string>
 	<string key="HunterSkipChoiceLynched">
-		<value>{0} saca seu revólver, e aponta para a multidão... Seus olhos de caçador tentam decidir quem ele vai levar com ele. Mas ele aceita seu fim, sozinho...</value>
+		<value>{0}#### saca seu revólver, e aponta para a multidão... Seus olhos de caçador tentam decidir quem ele vai levar com ele. Mas ele aceita seu fim, sozinho...</value>
 	</string>
 	<string key="HunterKilledFinalLynched">
-		<value>Com o nó em torno do pescoço, {0} saca seu revólver e, rápido como o bote de uma cobra, atira em {1}! "Hasta la vista, baby..." diz o Caçador para {1} que cai duro no chão. {2}</value>
+		<value>Com o nó em torno do pescoço,#### {0} saca seu revólver e, rápido como o bote de uma cobra, atira em {1}! "Hasta la vista, baby..." diz o Caçador para {1} que cai duro no chão. {2}</value>
 	</string>
 	<string key="HunterShotChoice">
-		<value>Você foi ferido mortalmente! Com seu último suspiro, você pode levar alguém com você... Seja rápido!</value>
+		<value>Seu poder político está com os dias contados! Com seu último suspiro, você pode levar alguém com você... Seja rápido!</value>
 	</string>
 	<string key="HunterNoChoiceShot">
-		<value>{0} recebeu um ferimento profundo, tanto que ele não conseguiu nem mesmo sacar sua arma, caindo duro no chão...</value>
+		<value>{0} ####recebeu um ferimento profundo, tanto que ele não conseguiu nem mesmo sacar sua arma, caindo duro no chão...</value>
 	</string>
 	<string key="HunterSkipChoiceShot">
-		<value>{0}, calmo como se o sangue saindo de sua barriga não fosse nada, decide não dar seu último tiro, aceitando seu destino...</value>
+		<value>{0}, ####calmo como se o sangue saindo de sua barriga não fosse nada, decide não dar seu último tiro, aceitando seu destino...</value>
 	</string>
 	<string key="HunterKilledFinalShot">
-		<value>{0} cai no chão, ferido mortalmente... Mas antes de morrer, ele puxa sua pistola e dá um tiro certeiro em {1}, que cai duro no chão, com um novo orifício na testa. {2}</value>
+		<value>{0} cai no#### chão, ferido mortalmente... Mas antes de morrer, ele puxa sua pistola e dá um tiro certeiro em {1}, que cai duro no chão, com um novo orifício na testa. {2}</value>
 	</string>
 	<string key="HunterShotWolfMulti">
-		<value>POW! POW! POW! A aldeia ouve o pipoco a noite! Os lobos atacaram a pessoa errada, o Caçador não iria embora sozinho, levou {0} (um lobo) junto com ele.</value>
+		<value>POW! POW! POW! Os delegados escutam o pipoco à noite! Os terroristas atacaram a pessoa errada, o ####Caçador não iria embora sozinho, levou {0} (um terrorista) junto com elx.</value>
 	</string>
 	<string key="HunterShotWolf">
-		<value>O lobo tentou atacar a pessoa errada a noite passada! O Caçador sabe se proteger muito bem e deixou um presentinho pra aldeia, o corpo de {0}!</value>
+		<value>O terrorista tentou atacar a pessoa errada a noite passada! O ####Caçador sabe se proteger muito bem e deixou um presentinho pras Nações, o corpo de {0}!</value>
 	</string>
 	<string key="SerialKillerKilledWolf">
-		<value>Os lobos tentaram atacar a pessoa errada noite passada! {0} é encontrado sem sua pele pendurado na forca, quase dá pra sentir pena do lobo! O Serial Killer ganhou um novo casaco de peles.</value>
+		<value>Os terroristas tentaram atacar a pessoa errada noite passada! {0} foi completamente desmanteladx na retaliação! O Imperador é imbatível!</value>
 	</string>
 	<string key="DefaultKilled">
-		<value>Pareceu uma noite normal, mas onde está {0}? Os aldeões se reúnem na casa de {0}, e encontram seu corpo na banheira cheia de sangue com seus orgãos boiando... O Serial Killer se divertiu essa noite... {1}</value>
+		<value>Pareceu uma noite normal, mas onde está {0}? No rádio, a mídia revela os avanços militares do império sobre o país de {0}, e encontram seu nome na lista de prisioneiros políticos... O Imperador está cada vez mais forte... {1}</value>
 	</string>
 	<string key="GuardBlockedKiller">
-		<value>Você foi jogar um joguinho com {0}. Mas chegando lá o Anjo da Guarda acabou com sua diversão! Sem brincadeiras essa noite...</value>
+		<value>Você foi visitar seu novo território com {0}. Mas chegando lá o Capacete Azul acabou com sua diversão! Sem anexos essa noite...</value>
 	</string>
 	<string key="CultConvertHunter">
-		<value>A Seita manda {0} para converter {1}. Chegando lá {0} é recebido com uma bala de três oitão bem no meio dos córneos! {0} tá morta...</value>
+		<value>A Nova Ordem manda {0} para converter {1}. Chegando lá {0} é recebido com uma ####bala de três oitão bem no meio dos córneos! {0} tá morta...</value>
 	</string>
 	<string key="CultConvertSerialKiller">
-		<value>A Seita manda {0} para converter {1}. Chegando lá {0} descobre que era melhor ter ficado em casa rezando. Seu corpo é encontrado aberto na rua, mas com os orgãos revirados. {0} está morta...</value>
+		<value>A Nova Ordem manda {0} para converter {1}. Chegando lá {0} descobre que era melhor ter chamado outra nação. A cidade onde morava foi completamente revirada pelas forças imperiais. {0} está morta...</value>
 	</string>
 	<string key="GuardKiller">
-		<value>Você tentou proteger a pessoa errada. O Serial Killer te convida para brincar com ele, um tipo de brincadeira que você com certeza não gosta. O tipo de brincadeira que você morre no final...</value>
+		<value>Você tentou proteger a pessoa errada. O Imperador te convida para tomar um chá, o tipo de chá que deram pro Rasputin. O tipo de chá que você morre no final...</value>
 	</string>
 	<string key="HarlotFuckKiller">
-		<value>Você dormiu na casa de {0} para se divertir um pouco. Mas essa noite só {0} vai se divertir, com você, enquanto ele esfaqueia seu corpo. Você morreu, mas se te serve de consolo, ele pareceu se divertir muito essa noite...</value>
+		<value>Você visitou a embaixada de {0} para conversas diplomáticas. Mas elx não estava fim de conversinha. As forças imperiais logo tomaram o consulado, te fazendo de prisioneiro político enquanto as tropas marcham sobre sua cidade...</value>
 	</string>
 	<string key="HarlotFuckKillerPublic">
-		<value>Parece que o Serial Killer não queria ter uma noite de sacanagem! O corpo de {0} foi encontrado na porta de sua casa, com as mãos e os pés amarrados... pelo visto, o SK foi o único que se divertiu.</value>
+		<value>Parece que o Imperador não é muito ligado em conversar política! {0} foi preso durante uma missão diplomática. A conversa parecia muito unilateral.</value>
 	</string>
 	<string key="DGToMason">
-		<value>A Doppelgänger {0} agora se tornou um Maçom, assim como você!</value>
+		<value>A Doppelgänger#### {0} agora se tornou um Maçom, assim como você!</value>
 	</string>
 	<string key="DGTransformToMason">
-		<value>{0} morreu, e você agora é um Maçom.  Seus companheiros (se houver) são: {1}</value>
+		<value>{0} morreu, e você agora é um Europeu.  Seus companheiros (se houver) são: {1}</value>
 	</string>
 	<string key="DGToCult">
-		<value>A Doppelgänger {0} se transformou em um membro da Seita. Aceita ele!</value>
+		<value>A Doppelgänger {0} ####se transformou em um membro da Nova Ordem Mundial!</value>
 	</string>
 	<string key="DGTransformToCult">
-		<value>{0} morreu, aceita que você entrou para a Seita. Seus novos companheiros (se houver) são: {1}</value>
+		<value>{0} morreu, você é o mais novo membro da Nova Ordem Mundial. Seus novos companheiros (se houver) são: {1}</value>
 	</string>
 	<string key="DGToWolf">
-		<value>A Doppelgänger {0} se tornou um lobo, mais um para o bando!</value>
+		<value>A Doppelgänger {0} ####se tornou um terrorista, mais um para o bando!</value>
 	</string>
 	<string key="DGTransformToWolf">
-		<value>{0} morreu, e você se transformou em um lobo, AUUUUU!!!  Seu novo bando é: {1}</value>
+		<value>{0} morreu, e você se transformou em um terrorista, CABUUM!!!  Seu novo grupo é: {1}</value>
 	</string>
 	<string key="SerialKillerWins" isgif="true">
-		<value>O único sobrevivente foi o Serial Killer! Ele se divertiu muito com essa brincadeirinha, porque não existe diversão melhor que vencer, em especial quando isso envolve matar todos vocês!</value>
+		<value>O único sobrevivente foi o Imperador! Ele se divertiu muito com essa brincadeirinha, porque não existe diversão melhor que vencer, em especial quando isso envolve anexar todos vocês!</value>
 	</string>
 	<string key="AskKill">
-		<value>Quem você quer matar essa noite?</value>
+		<value>Quem você quer anexar essa noite?</value>
 	</string>
 	<string key="LoverDied">
-		<value>{0} dá seu último suspiro olhando no fundo dos olhos de seu amado(a), {1}, que segura seu corpo de joelhos. {1} não aguenta a dor, e, com uma faca, perfura o próprio coração... Eles ficarão juntos, mesmo no mundo dos mortos. {2}</value>
+		<value>{0} dá seu último suspiro olhando no fundo dos olhos de seu amado(a),#### {1}, que segura seu corpo de joelhos. {1} não aguenta a dor, e, com uma faca, perfura o próprio coração... Eles ficarão juntos, mesmo no mundo dos mortos. {2}</value>
 	</string>
 	<string key="AskDoppelganger">
-		<value> Em quem você tem vontade de se transformar?</value>
+		<value> Em quem você tem ####vontade de se transformar?</value>
 	</string>
 	<string key="AskCupid1">
-		<value>Quem será o casal? Escolha o primeiro amante.</value>
+		<value>Quem será o casal?#### Escolha o primeiro amante.</value>
 	</string>
 	<string key="AskCupid2">
-		<value>Quem será o casal? Escolha o segundo amante.</value>
+		<value>Quem será o casal? ####Escolha o segundo amante.</value>
 	</string>
 	<string key="Hunter">
-		<value>o Caçador 🎯</value>
+		<value>####o Caçador 🎯</value>
 	</string>
 	<string key="Cupid">
-		<value>o Cupido 🏹</value>
+		<value>o Cupido#### 🏹</value>
 	</string>
 	<string key="SerialKiller">
-		<value>o Serial Killer 🔪</value>
+		<value>o Imperador 🔪</value>
 	</string>
 	<string key="Doppelgänger">
 		<value>a Doppelgänger 🎭</value>
 	</string>
 	<string key="NewWCRoleModel">
-		<value>Você se tornou a Criança Rebelde. Seu modelo exemplar é {0}</value>
+		<value>Você se tornou o Colonizado. Sua metrópole é {0}</value>
 	</string>
 	<string key="LoversWin">
-		<value>Os amantes venceram! Queriam o que né? O Amor sempre vence!</value>
+		<value>Os amantes venceram! Queriam o que né? O Amor sempre vence!####</value>
 	</string>
 	<string key="HunterKilledVisiter">
-		<value>Quando acordam, vocês encontram {0} largado no meio da praça, parecendo uma peneira por causa dos tiros. Parece que alguém visitou o Caçador e se deu mal! {1}</value>
+		<value>Quando acordam, vocês encontram {0} largado no meio da praça, parecendo uma peneira por causa dos tiros. Parece que alguém visitou o Caçador e se deu mal!#### {1}</value>
 	</string>
 	<string key="CultAttempt">
-		<value>Alguém bateu na sua porta a noite, "Olá, você tem um minuto para ouvir a palavra da Seita?" Você fecha a porta na cara deles, sua fé é mais forte, mas você se esqueceu de olhar o rosto dele!</value>
+		<value>Alguém bateu na sua porta a noite, "Olá, você tem um minuto para escutar o plano da Nova Ordem Mundial?" Você fecha a porta na cara deles, muito satisfeitx com a atual conjuntura, mas você se esqueceu de olhar o rosto delx!</value>
 	</string>
 	<string key="AlreadyOnWaitList">
 		<value>Você já está na lista de espera para {0}</value>
@@ -643,13 +643,13 @@
 		<value>Um novo jogo vai começar em {0}</value>
 	</string>
 	<string key="SerialKillerWinsOverpower">
-		<value>A manhã chega à aldeia, e somente duas pessoas estão de pé. {0} olha para {1}, um sorriso sinistro abre em sua face, ele puxa a faca e brinca com {1}, que agora está morto.</value>
+		<value>A manhã chega à sala de reuniões, e somente dois delegados estão de pé. {0} olha para {1}, um sorriso sinistro abre em sua face, ele dá o sinal e o exército toma a sala de reuniões, prendendo {1}, cujo país está sendo anexado.</value>
 	</string>
 	<string key="NoWinner" isgif="true">
-		<value>Todos na aldeia morreram... Ninguém venceu essa partida... A não ser, talvez, os urubus.</value>
+		<value>A conjuntura se desabou em completo caos. Códigos nucleares voam pra lá e pra cá. Ninguém ganhou.</value>
 	</string>
 	<string key="SKHunterEnd">
-		<value>O sol nasce no horizonte, {0} e {1} são os únicos sobreviventes.  {0} se aproxima sorridente de {1}, e o convida para uma brincadeira.  {1} rápido como o trovão saca sua arma e atira em {0}. {0}, com seu último suspiro, joga sua faca em {1}. Ambos morreram, o dia acaba e não houve nenhum vencedor para contar história...</value>
+		<value>O sol nasce no horizonte, {0} e {1} são os únicos delegados.  {0} se aproxima sorridente de {1}, e o convida para uma brincadeira.####  {1} rápido como o trovão saca sua arma e atira em {0}. {0}, com seu último suspiro, joga sua faca em {1}. Ambos morreram, o dia acaba e não houve nenhum vencedor para contar história...</value>
 	</string>
 	<string key="RoleModelChosen">
 		<value>Você não decidiu a tempo, então o bot escolheu por você: {0}</value>
@@ -663,7 +663,7 @@
 	<string key="IdleCount"><!-- 0 - player's name --><!-- 1 - idle count -->
 		<value>O jogador {0} não votou e foi morto por isso {1} vezes nas últimas 24 horas.</value>
 	</string><!--Novas Strings, feitas dia 07/06/2016. Traduzidas dia 09/06/2016-->
-	<string key="AboutVG">
+	<string key="AboutVG">####
 		<value>Você é um simples aldeão, condenado a passar seus dias arando o campo esprando para ser devorado pelos Lobos, seus inimigos. Uma vez por dia você pode votar em alguém pra mandar pra forca, use seu voto com sabedoria!</value>
 	</string>
 	<string key="AboutSeer">
@@ -942,37 +942,37 @@
 		<value>Tempo até o envio da mensagem de ping: {0}</value>
 	</string><!-- Update 4.0-->
 	<string key="RoleInfoMayor">
-		<value>Você é o Prefeito. Seu voto durante o linchamento contará duas vezes, uma vez que você se revelou. Você faz parte do time da aldeia.</value>
+		<value>Você é o Membro Permanente. Seu status importante lhe garante prioridade na votação, fazendo seu voto contar como dois, mas apenas quando você se revelar. Você faz parte do time das Nações.</value>
 	</string>
 	<string key="RoleInfoPrince">
-		<value>Você é secretamente o Príncipe, escapando de sua vida aborrecida e mimada passando o dia com esses camponeses. Se eles tentarem linchá-lo, perceberão seu erro, e ninguém será linchado.</value>
+		<value>Você é secretamente o Secretário-Geral, escapando de seus encargos burocráticos para bisbilhotar a sessão. Se eles tentarem sancioná-lo, perceberão seu erro, e ninguém será linchado.</value>
 	</string>
 	<string key="RoleInfoClumsyGuy">
-		<value>Seu sem noção, você é o Desajeitado: Você vai tentar votar, mas há uma chance de 50% de votar em outra pessoa em vez daquele em quem você pretendia. Mesmo assim, você está no time da aldeia .</value>
+		<value>Seu sem noção, você é o Desajeitado: Você vai tentar votar, mas há uma chance de 50% de votar em outra pessoa em vez daquele em quem você pretendia. Mesmo assim, você está no time das Nações.</value>
 	</string>
 	<string key="RoleInfoSorcerer">
-		<value>Você é a Feiticeira, e se junta às criaturas da noite, ao invés dos aldeões. À noite, você usará seu poder para encontrar os lobos ou a Vidente. Você ganha somente se os lobos ganharem. Desfrute de ajudar a exterminar esses miseráveis aldeões. </value>
+		<value>Você é a Infiltrada, e se junta aos extremistas, ao invés dos delegados. À noite, você usará sua posição para encontrar os terroristas ou a Espiã. Você ganha somente se os terroristas ganharem. Desfrute de ajudar a exterminar esses miseráveis infiéis. </value>
 	</string>
 	<string key="RoleInfoBlacksmith">
-		<value>Você é o Ferreiro: o metalúrgico da aldeia. Você tem uma pequena quantidade de prata, o suficiente para impedir os lobos de atacar por uma noite. Durante o dia, você poderá fazer pó da prata e espalhá-lo ao redor da aldeia. Fora isso, você é apenas um aldeão. </value>
+		<value>Você é o Anti-Bombas: o especialista no assunto. Você tem alguns equipamentos , o suficiente para impedir os terroristas de atacar por uma noite. Durante o dia, você poderá fazer uma ronda e usá-los para interceptar explosivos. </value>
 	</string>
 	<string key="RoleInfoAlphaWolf">
-		<value>Você é o Lobo Alfa, a origem da praga. Sua mordida é a causa da maldição que transforma humanos em lobisomens. Cada noite, você vai escolher um humano para atacar e matar, mas, enquanto você estiver vivo, sua vítima tem uma chance de 20% de se transformar em um lobisomem. </value>
+		<value>Você é a Célula, recrutador de novos terroristas. Sua lábia converte jovens sem rumo em fervorosos extremistas. Cada noite, você vai escolher um jogador para atacar e matar, mas, enquanto você estiver vivo, sua vítima tem uma chance de 20% de se transformar em um terrorista. </value>
 	</string>
 	<string key="RoleInfoWolfCub">
-		<value>Que fofinho! Você é o Filhote de Lobo, adorado por sua matilha. Como outros lobos, você vai escolher um aldeão para atacar e matar todas as noites. Se acontecer de você ser morto, sua matilha verá seu corpo no chão, e, ensandecida, vingará sua morte, atacando duas pessoas na noite seguinte. </value>
+		<value>Uau! Você é o Líder Terrorista, adorado por seu carisma e garra. Como outros terroristas, você vai escolher um jogador para atacar e matar todas as noites. Se acontecer de você ser morto, sua organização verá seu corpo no chão, e, ensandecida, vingará sua morte, atacando duas pessoas na noite seguinte. </value>
 	</string>
 	<string key="PrinceLynched">
-		<value>A aldeia se prepara para linchar {0}, que grita, "Esperem! Eu sou o Príncipe. Esse anel real, com o selo do rei, prova isso. Toda noite eu estou rodeado de criados, então não posso ser um inimigo." Se sentindo tolos, os aldeões vão para suas casas dormir com o rabo entre as pernas.</value>
+		<value>As Nações se preparam para oficializar as sanções em {0}, que grita, "Esperem! Eu sou o Secretário-Geral. Esse crachá, com o selo da ONU, prova isso. Toda noite eu estou rodeado de oficiais, então não posso ser um inimigo." Se sentindo tolos, os delegados terminam a sessão com o rabo entre as pernas.</value>
 	</string>
 	<string key="SorcererOther">
-		<value>Você tenta ver {0}, mas tudo o que consegue enxergar é que ele(a) não é a Vidente nem um Lobo...</value>
+		<value>Você tenta ver {0}, mas tudo o que consegue enxergar é que elx não é a Espiã nem um Terrorista...</value>
 	</string>
 	<string key="MayorReveal">
-		<value>{0} dá um passo à frente e mostra o selo oficial do Prefeito, declarando que é ele. De agora em diante, os votos de {0} para linchar alguém serão contados duas vezes.</value>
+		<value>{0} dá um passo à frente e mostra o selo oficial dos Membros Permanentes, declarando que seu cargo. De agora em diante, os votos de {0} para sancionar alguém serão contados duas vezes.</value>
 	</string>
 	<string key="AskMayor">
-		<value>Clique em "Revelar" quando estiver pronto para se revelar como o Prefeito</value>
+		<value>Clique em "Revelar" quando estiver pronto para se revelar como o Membro Permanente</value>
 	</string>
 	<string key="Reveal">
 		<value>Revelar</value>
@@ -984,67 +984,66 @@
 		<value>Enquanto o resto da aldeia debate sobre o que está acontecendo, {0} anda por aí espalhando pó de prata pelo chão. Pelo menos por enquanto, a aldeia estará segura de ataques de lobisomens.</value>
 	</string>
 	<string key="Mayor">
-		<value>o Prefeito 🎖</value>
+		<value>o Membro Permanente 🎖</value>
 	</string>
 	<string key="Prince">
-		<value>o Príncipe 👑</value>
+		<value>o Secretário-Geral 👑</value>
 	</string>
 	<string key="Sorcerer">
-		<value>a Feiticeira 🔮</value>
+		<value>a Infiltrada 🔮</value>
 	</string>
 	<string key="ClumsyGuy">
 		<value>o Desajeitado 🤕</value>
 	</string>
 	<string key="Blacksmith">
-		<value>o Ferreiro ⚒</value>
+		<value>o Anti-Bombas ⚒</value>
 	</string>
 	<string key="AlphaWolf">
-		<value>o Lobo Alfa ⚡️</value>
+		<value>a Célula ⚡️</value>
 	</string>
 	<string key="WolfCub">
-		<value>o Filhote de Lobo 🐶</value>
+		<value>o Líder Terrorista 🐶</value>
 	</string>
 	<string key="PlayerBittenWolves">
-		<value>Os lobos começaram a atacar {0}, mas, de repente, {1}, o Lobo Alfa, manda todos pararem. Ele diz à matilha que {0} deveria se juntar a eles ao invés de morrer, então todos voltam às suas casas, deixando sua vítima com as mordidas infeccionadas. {0} vai virar um lobisomem amanhã de noite.</value>
+		<value>Os terroristas começaram a atacar {0}, mas, de repente, {1}, a Célula, manda todos pararem. Ele percebe o potencial em {0}, e diz que elx deveria se juntar a eles ao invés de morrer. A lábia de {1} planta a discórdia em sua mente. {0} vai se juntar aos terroristas amanhã de noite.</value>
 	</string>
 	<string key="PlayerBitten">
-		<value>Os lobos tentaram te tombar, mas o Lobo Alfa te escolheu. Ao invés de ser morto, você foi infectado... e vai virar um lobisomem amanhã de noite!</value>
+		<value>Os terroristas tentaram te tombar, mas a Célula te escolheu. Ao invés de ser morto, você foi recrutado... e vai virar um terrorista amanhã de noite!</value>
 	</string>
 	<string key="BittenTurned">
-		<value>O sol se põe, e você começa a sentir um formigamento, que logo dá espaço à dor enquanto seu corpo se transforma... Agora você é um lobisomem!</value>
+		<value>Depois de muito refletir, você decide que os terroristas estão do lado certo da coisa. Se não pode ganhar deles, junte-se a eles... Agora você é um terrorista!</value>
 	</string>
 	<string key="AboutMayor">
-		<value>Como Prefeito, você é um simples aldeão, até se revelar. Então você poderá ter o seu voto contado duas vezes na hora de linchar alguém (ou seja, o seu voto é duas vezes mais poderoso que qualquer um). Use o seu poder sabiamente para ajudar o Time da Aldeia.</value>
+		<value>Como Membro Permanente, você é um simples delegado, até se revelar. Então você poderá ter o seu voto contado duas vezes na hora de sancionar alguém (ou seja, o seu voto é duas vezes mais poderoso que qualquer um). Use o seu poder sabiamente para ajudar as Nações Unidas.</value>
 	</string>
 	<string key="AboutPrince">
-		<value>O Príncipe é uma parte importante do Time da Aldeia. Assim que tentam linchá-lo, seu papel de Príncipe é revelado, e ele irá sobreviver. Assim, só poderá ser morto durante a noite, ou por um caçador.</value>
+		<value>O Secretário-Geral é uma parte importante das Nações Unidas. Assim que tentam sancioná-lo, seu papel de Secretário-Geral é revelado, e ele irá sobreviver. Assim, só poderá ser morto durante a noite, ou por um ####caçador.</value>
 	</string>
 	<string key="AboutSorcerer">
-		<value>Você se lembra da boa e velha Vidente? Bem, agora os Lobos têm uma, e é a Feiticeira. Ela pode apenas 'ver' os Lobos e Videntes, e é do time dos Lobos.</value>
+		<value>Você se lembra da boa e velha Espiã? Bem, agora os Terroristas têm uma, e é a Infiltrada. Ela pode apenas 'ver' os Terroristas e Espiãs, e é da facção Terrorista.</value>
 	</string>
 	<string key="AboutClumsy">
-		<value>Você é o Desajeitado. Você é um sem noção, se confunde o tempo todo e às vezes não consegue apontar para a pessoa certa. Será que você consegue votar corretamente na hora de linchar alguém? (Você tem 50% de chance de votar em alguém aleatório no lugar da pessoa escolhida)</value>
+		<value>Você é o Desajeitado. Você é um sem noção, se confunde o tempo todo e às vezes não consegue apontar para a pessoa certa. Será que você consegue votar corretamente na hora de sancionar alguém? (Você tem 50% de chance de votar em alguém aleatório no lugar da pessoa escolhida)</value>
 	</string>
 	<string key="AboutBlacksmith">
-		<value>Você é o Ferreiro. Durante os anos, nenhuma espada, nem lâmina, te deu tanta satisfação quanto a Lâmina Prateada que os duendes te encomendaram.
-Talvez você ainda tenha algum resíduo de prata sobrando. Quem sabe? Talvez ele até *previna que os Lobos possam atacar essa noite*
+		<value>Você é o Anti-Bombas. Seu equipamento de alta qualidade, assim como o seu fiel cão farejador, são seus companheiros na luta contra explosivos e outras coisas que fazem cabum. O nariz afiado do seu cachorro te ajuda a *previnir que os Terroristas possam atacar essa noite*
     </value>
 	</string>
 	<string key="AboutAlphaWolf">
-		<value>Você é o Lobo Alfa, a origem da maldição, o chefão. Quando vivo, a sua vítima tem 20% de chance de se juntar ao bando, isso foi nela que você tinha votado.
+		<value>Você é a Célula, o coração da expansão da causa, o agitador. Quando vivo, a sua vítima tem 20% de chance de se juntar à facção, se foi nela que você tinha votado.
     </value>
 	</string>
 	<string key="AboutWolfCub">
-		<value>Mas que fofinho! Pequenino lobinho! _cuti cuti_ Eu não resisto à sua fofura! Eu acho que se te matassem, eu daria aos lobos duas vitimas. Você é fofinho demais para morrer. Não quero nunca deixar de te acariciar-</value>
+		<value>Todos saúdam o grande líder! Sua presença é imponente, suas palavras são sábias. Sua morte abalaria profundamente os seus companheiros - talvez atacariam com o dobro da fúria.</value>
 	</string><!-- new strings 06 nov-->
 	<string key="DGTransformToAlpha"><!-- 0 - target's name --><!-- 1 - teammates's name -->
-		<value>{0} morreu, e você se transformou em Lobo Alfa.  Os seus companheiros (se houver) são: {1}</value>
+		<value>{0} morreu, e você se transformou em Célula.  Os seus companheiros (se houver) são: {1}</value>
 	</string>
 	<string key="DGTransformToWolfCub"><!-- 0 - target's name --><!-- 1 - teammates's name -->
-		<value>{0} morreu, e você se transformou em Filhote de Lobo.  Os seus companheiros (se houver) são: {1}</value>
+		<value>{0} morreu, e você se transformou em Líder Terrorista.  Os seus companheiros (se houver) são: {1}</value>
 	</string>
 	<string key="VillageTeamEnd">
-		<value>Time da Aldeia</value>
+		<value>Nações Unidas</value>
 	</string>
 - 
 	<string key="NeutralTeamEnd">
@@ -1052,86 +1051,86 @@ Talvez você ainda tenha algum resíduo de prata sobrando. Quem sabe? Talvez ele
 	</string>
 - 
 	<string key="WolfTeamEnd">
-		<value>Time dos Lobos</value>
+		<value>Facção Terrorista</value>
 	</string>
 - 
 	<string key="SerialKillerTeamEnd">
-		<value>Time Serial Killer</value>
+		<value>O Império</value>
 	</string>
 - 
 	<string key="CultTeamEnd">
-		<value>Time da Seita</value>
+		<value>A Nova Ordem Mundial</value>
 	</string>
 - 
 	<string key="TannerTeamEnd">
-		<value>Time Suicida</value>
+		<value>Time Suicida####</value>
 	</string>
   - 
 	<string key="CultConvertWolf">
-		<value>A seita envia {0} para tentar converter {1}, mas em vez disso, a sua cabeça é jogada pela janela. {0} está morto...</value>
+		<value>A Ordem envia {0} para tentar converter {1}, mas em vez disso, a sua cabeça é jogada pela janela. {0} está morto...</value>
 	</string>
 	<string key="HarlotFuckedKilledPublic">
-		<value>{0} vai até a casa de {1}, pronta para uma noite de romance, somente para encontrar um estranho removendo cirurgicamente os órgãos de {1}! O Serial Killer decidiu obrigar {0} a se juntar à brincadeira, mas não foi nada divertido...</value>
+		<value>{0} vai até o consulado de {1}, prontx para discutir assuntos confidenciais, somente para encontrar as tropas imperiais mantendo {1} de refém! O Imperador não precisa de testemunhas, então {0} é assassinadx na hora...</value>
 	</string><!--New Death Strings 05 Nov-->
 	<string key="ApprenticeSeerEaten">
-		<value>A aldeia acorda e encontra o corpo da Aprendiz de Vidente todo ensaguentado, sua mestra sentirá sua falta. {0} morreu!</value>
+		<value>A agência de Inteligência reporta que uma Iniciante foi interceptada em sua primeira missão. {0} morreu!</value>
 	</string>
 	<string key="BlacksmithKilled">
-		<value>Parece que {0}, o Ferreiro, é bem azarado. Cinco espadas foram encontradas atravessadas no seu peito. E diversas armas desapareceram, o Serial Killer fez a festa!</value>
+		<value>Parece que {0}, o Anti-Bombas, é bem azarado. Foi encontrado com o torso em pedacinhos, completamente explodido e obliterado. E todo o seu equipamento foi confiscado, o Imperador fez a festa!</value>
 	</string>
 	<string key="CultistKilled">
-		<value>De manhã todos encontram {0} empalado em um candelabro. O Serial Killer não se importa com religião, todos são brinquedinhos para ele! A Seita vai sentir falta de {0}...</value>
+		<value>O corpo de {0} é encontrado esburacado, com balas de fuzis usados pelo exército imperial. Seu sangue cobria cartas de negociação da Ordem. O Imperador não se importa com outras alianças, todos são brinquedinhos para ele! A Nova Ordem vai sentir falta de {0}...</value>
 	</string>
 	<string key="CupidKilled">
-		<value>Os aldeões ficam de coração partido ao encontrar {0}, o Cupido, morto. Estranho o fato de seu coração estar faltando, obviamente obra do Serial Killer.</value>
+		<value>####Os aldeões ficam de coração partido ao encontrar {0}, o Cupido, morto. Estranho o fato de seu coração estar faltando, obviamente obra do Serial Killer.</value>
 	</string>
 	<string key="DrunkKilled">
-		<value>{0}, o Bêbado teve o seu fígado retirado cirurgicamente e colocado em uma garrafa de pinga. Obviamente mais uma brincadeira do Serial Killer que deve ter adorado seu novo drink. </value>
+		<value>{0}, o ####Bêbado teve o seu fígado retirado cirurgicamente e colocado em uma garrafa de pinga. Obviamente mais uma brincadeira do Serial Killer que deve ter adorado seu novo drink. </value>
 	</string>
 	<string key="GuardianAngelKilled">
-		<value>{0} é encontrado com grandes fendas onde antes havia suas asas. {0}, o Anjo da Guarda, está morto, e a noite agora é mais sombria.</value>
+		<value>{0} é encontrado morto dentro de um acampamento de pacificadores da ONU próximo ao território do Império. {0}, o Capacete Azul, está morto, e o céu parece mais escuro.</value>
 	</string>
 	<string key="GunnerKilled">
-		<value>Na calada da noite vocês ouvem um tiro na casa de {0}, a Atiradora! Seus sonhos são tormentosos depois de encontra-la com um buraco na testa, e a arma embaralhada em suas entranhas, mais uma vítima do Serial Killer.</value>
+		<value>Na calada da noite, relata-se o barulho de tiros vindo do escritório de {0}, a oficial da OTAN! Seus sonhos são tormentosos depois de encontra-la com um buraco na testa, e a arma embaralhada em suas entranhas. O Imperador quer ver o fim desse pacto.</value>
 	</string>
 	<string key="MayorKilled">
-		<value>Houve um terrível assassinato! {0}, o Prefeito foi encontrado assado com uma maçã na boca! O Serial Killer finalmente conseguiu vingança pelos anos preso no hospício.</value>
+		<value>Que horrível! {0}, o Membro Permanente, foi sequestrado por homens do Imperador! As Nações estão desesperadas!</value>
 	</string>
 	<string key="PrinceKilled">
-		<value>O sino toca por toda a Aldeia antes do nascer do sol. Os soldados do Rei estão em todo lugar investigando a morte de {0}, o Príncipe. E nenhuma pista foi encontrada ainda, além do chapéu de bobo da corte na cabeça decepada do Principe, com a assintaura em sangue "Serial Killer" na parede.</value>
+		<value>Alarmes ecoam pela sede da ONU. Os boinas azuis estão em todo lugar investigando a morte de {0}, o Secretário-Geral. E nenhuma pista foi encontrada ainda, além do icônico símbolo da ONU riscado em sangue com os dizeres ao lado: "Vida longa ao Império!".</value>
 	</string>
 	<string key="SeerKilled">
-		<value>A Aldeia acorda para ver o corpo de {0}, a Vidente, morta. No lugar de seu cérebro, uma bola de cristal. O Serial Killer é assustador!</value>
+		<value>Agências de Inteligência reportam o assassinato de {0}, interceptada em uma missão nos territórios do Imperador.</value>
 	</string>
 	<string key="SorcererEaten">
-		<value>Cercada pelos lobos, a vítima tenta um último apelo: "Seus burros, sou sua aliada, não me devorem!!!". Mas não foi suficiente para conter o instinto lupino. Parece que um erro foi cometido. A Feiticeira {0} está morta.</value>
+		<value>Cercada pelos terroristas, a vítima tenta um último apelo: "Seus burros, sou sua aliada, não me matem!!!". Mas não foi suficiente para conter o fúria extremista. Parece que um erro foi cometido. A Infiltrada {0} está morta.</value>
 	</string>
 	<string key="WildChildEaten">
-		<value>NOMNOMNOMNOM! Nada tão doce e macio quanto a carne de uma criança. {0}, a Criança Rebelde morreu, e o que sobrou foi apenas uma pilha de ossos infantis! Que crueldade!</value>
+		<value>CABUUUM! Nada tão bonito quanto ver uma jovem nação dependente tomada pela causa extremista. {0}, o Colonizado, morreu num bombardeio!</value>
 	</string>
 	<string key="SerialKillerKilledCH"><!--used when CH visits SK-->
-		<value>A Aldeia acordou essa manhã só para encontrar um corpo torturado e morto na praça. {0}, o Inquisidor, visitou a pessoa errada. O Serial Killer utilizou todas as ferramentas de tortura do Inquisidor, ao mesmo tempo.</value>
+		<value>Como dizia Duroselle, "todo império ruirá". {0}, a Potência, mexeu com a nação errada. O Imperador utilizou todas as táticas de dominação política da Potência, ao mesmo tempo.</value>
 	</string>
 	<string key="CultConvertWolfPublic"><!--used when Cultists convert the wolves, only if wolves stayed home-->
-		<value>Péssima escolha da Seita ao visitar um Lobo que decidiu ficar em casa durante a noite. {0} está morto, foi convertido em uma bela refeição pros Lobos, que não são muito interessados em movimentos religiosos.</value>
+		<value>Péssima escolha da Nova Ordem ao visitar um terrorista que decidiu ficar em casa durante a noite. {0} está morto, foi convertido em uma bela cuca decepada pelos terroristas, que não são muito interessados em alianças com infiéis.</value>
 	</string>
 	<string key="CultConvertKillerPublic"><!--used when Cultists convert the SK-->
-		<value>Ontem a noite a Seita decidiu visitar a única pessoa mais estranha do que eles, o Serial Killer, e por causa disso, os órgãos de {0} serviram para a criação de uma nova obra de arte.</value>
+		<value>Ontem a Nova Ordem decidiu visitar a única pessoa mais controversa do que eles, o Imperador, e por causa disso, os órgãos de {0} foram mostrados em praça pública.</value>
 	</string>
 	<string key="GAGuardedKiller">
-		<value>{0} tentou proteger o Serial Killer ontem a noite. A Aldeia acordou e encontrou apenas as asas de {0} pregadas na parede da igreja.</value>
+		<value>{0} tentou proteger o Imperador ontem a noite. Os pacificadores da ONU só encontraram o seu icônico Capacete Azul jogado na frente do acampamento.</value>
 	</string>
 	<string key="GAGuardedWolf">
-		<value>{0} tentou proteger um Lobo ontem a noite. A Aldeia acordou e apenas encontrou o corpo de {0} e suas penas, ensanguentadas no chão da igreja.</value>
+		<value>{0} tentou proteger um Terrorista ontem a noite. Seu Capacete Azul continuou firmemente grudado à sua cabeça durante a decepagem.</value>
 	</string>
 	<string key="HunterKillsWolfEnd">
-		<value>Apenas {0} e {1} sobreviveram, e {1} queria mudar isso... Na calada da noite, se dirigiu à casa de {0}, sem nem desconfiar que não seria fácil assim matar o Caçador. O que restou de {1} foi sua carcaça, que foi usada como enfeite. O último Lobisomem morreu!</value>
+		<value>Apenas {0} e {1} sobreviveram, e {1} queria mudar isso... Na calada da noite, se dirigiu à casa de {0}, sem nem desconfiar que não seria fácil assim matar o Caçador. ####O que restou de {1} foi sua carcaça, que foi usada como enfeite. O último Lobisomem morreu!</value>
 	</string>
 	<string key="WolfKillsHunterEnd">
-		<value>Apenas {0} e {1} sobreviveram, e {1} queria mudar isso... Na calada da noite, se dirigiu à casa de {0}, que ainda estava dormindo. O que restou de {0} foi apenas sua mão, segurando um revólver.</value>
+		<value>Apenas {0} e {1} sobreviveram, e {1} queria mudar isso... Na calada da noite, se dirigiu à casa de {0}, que ainda estava dormindo. ####O que restou de {0} foi apenas sua mão, segurando um revólver.</value>
 	</string>
 	<string key="CHKillsCultistEnd">
-		<value>Vendo um símbolo estranho rodeando o pescoço de {0}, {1} já se dá conta que {0} faz parte da Seita. Então, {1} tira sua espada pela última vez e a crava no peito de {0}. Agora a Aldeia está salva da contaminação da seita.</value>
+		<value>Vendo atividades estranhas no consulado de {0}, {1} já se dá conta que {0} faz parte da Nova Ordem. Então, {1} o Imperador anexou todo o país onde morava {0}. Agora as Nações estão salvas dos planos da Nova Ordem Mundial.</value>
 	</string>
 	<string key="SecondsAdded">
 		<value>O tempo de entrada foi estendido em {0} segundos! Agora restam {1} segundos para se juntar à partida!</value>
@@ -1189,7 +1188,7 @@ Talvez você ainda tenha algum resíduo de prata sobrando. Quem sabe? Talvez ele
 		<value>Seus companheiros são: {0}</value>
 	</string>
 	<string key="WolfTeam">
-		<value>Sua alcateia é: {0}</value>
+		<value>Sua facção é: {0}</value>
 	</string>
 	<string key="DeadFlee">
 		<value>Você não pode fugir, pois já morreu.</value>
@@ -1262,11 +1261,11 @@ Talvez você ainda tenha algum resíduo de prata sobrando. Quem sabe? Talvez ele
 	</string>
 	<string key="TannerEnd"><!-- 0 - Tanner name -->
 		<value>Enquanto o sol começa a brilhar na aldeia, {0} acorda ao som do silêncio. Percebendo que não há mais ninguém, {0} anda e anda, até o centro da aldeia. Admirando a vista dos cadáveres destroçados por toda a aldeia, {0} suspira. Seu sonho de ser linchado(a) pelo vilarejo está tão morto quanto os próprios habitantes do lugar. Calmamente, ele(a) escolhe a corda, uma das armas que tiraram tantas vidas, e a enrola em seu pescoço, permitindo-se enforcar livremente, com um sorriso triste em seu rosto.</value>
-		<value>{0} acorda ao amanhecer, solitário(a). {0} percebe seu enorme fracasso, tendo sido incapaz de conseguir que a aldeia satisfizesse seu desejo masoquista de ser linchado. {0} pega uma corda e se enforca, já que não há mais ninguém para realizar seu sonho por ele(a).</value>
+		<value>{0} acorda ao amanhecer, solitário(a). {0} percebe seu enorme fracasso, tendo sido incapaz de conseguir que a aldeia satisfizesse seu desejo masoquista de ser linchado. {0} pega uma corda e se enforca, já que não há mais ninguém para realizar seu sonho por ele(a).</value>####
 	</string>
 	<string key="SorcererEnd"><!-- 0 - Sorcerer name -->
-		<value>{0} abre seus olhos, mas em vez de ouvir a confusão usual na aldeia, ela só contempla o silêncio. Ela olha para o teto, deixando que a realidade lentamente invada sua mente. Todos morreram. Os lobos estão mortos. Angustiada, {0} se levanta, e arruma suas malas, antes de andar até os limites da vila. Lágrimas rolam sobre sua face, enquanto {0} se lembra do quão perto ela e seus lobos chegaram da vitória. Porém, era hora de começar uma nova vida, com uma nova matilha. {0} se esgueira pela escuridão da floresta, para longe da silenciosa aldeia.</value>
-		<value>Apesar de todo o esforço de {0}, todos os seus amigos lupinos estão estirados no chão, sem vida. Ainda que seu time tenha chegado à vitória, não há com quem saborear o seu gosto, ou sequer alguma pessoa do bem para ser humilhada pela derrota. {0} olha para sua bola de cristal, e desaparece silenciosamente em meio a um nevoeiro, em busca de novos lobos, novas alianças, e novas traições para cometer contra a humanidade.</value>
+		<value>{0} comparece à reunião, mas ao invés das montanhas de delegados discutindo, ela só contempla o silêncio. Ela olha para o teto, deixando que a realidade lentamente invada sua mente. As Nações não estão mais Unidas. Os terroristas estão mortos. Angustiada, {0} volta pra casa, e arruma suas malas, se dirigindo ao aeroporto. Lágrimas rolam sobre sua face, enquanto {0} se lembra do quão perto ela e seus companheiros chegaram da vitória. Porém, era hora de começar uma nova vida, com uma nova facção. {0} nunca mais é vista novamente, depois de levantar voo e sumir no céu azul.</value>
+		<value>Apesar de todo o esforço de {0}, todos os seus amigos fanáticos estão debandados, jogados em um limbo de poder. Ainda que seu time tenha chegado à vitória, não há com quem saborear o seu gosto, ou sequer alguma pessoa do bem para ser humilhada pela derrota. {0} olha para seu passaporte falso, e desaparece silenciosamente no meio da multidão, em busca de novas facções, novas alianças, e novas traições para cometer contra os infiéis.</value>
 	</string>
 	<string key="WhatVariantVets">
 		<value>Qual variante?\nAtual: {0}\nComo você já jogou mais de 500 partidas, você também pode se juntar a: </value>
