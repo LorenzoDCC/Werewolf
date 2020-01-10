@@ -511,7 +511,7 @@
 		<value>Você é uma ####Doppelgänger. A Lenda diz que seus ancestrais eram metamorfos, e podiam assumir qualquer forma que quisessem! Escolha um jogador, quando ele morrer você assumirá o papel dele no jogo.</value>
 	</string>
 	<string key="RoleInfoHunter">
-		<value>Você é o ####Caçador(a)! Seu revólver é o seu amante e você está com ele o tempo todo, até dorme com ele! Se você morrer, pode escolher alguém para matar. E se os Lobos te visitarem a noite, você não é alguém que aceitaria ir sozinho, mas no escuro, você não consegue escolher quem matar.</value>
+		<value>Você é o Paramilitar! Seu revólver é o seu amante e você está com ele o tempo todo, até dorme com ele! Se você morrer, pode escolher alguém para matar. Se os terroristas te atacarem à noite, você não é alguém que aceitaria ir sozinho, mas no escuro, você não sabe dizer quem é quem.</value>
 	</string>
 	<string key="RoleInfoSerialKiller">
 		<value>Você é o Imperador. Seu time é você mesmo e os outros jogadores não são mais que seus brinquedinhos. Toda noite você pode escolher uma Nação para anexar e adicionar para sua coleção de territórios.</value>
@@ -520,34 +520,34 @@
 		<value>Você foi atingido(a) ####pela flecha do amor. A memória de {0} nunca deixará seu coração. Se um de vocês morrer, o outro irá até o mundo dos mortos para que ambos continuem juntos. Se o time de um de vocês vencer, ambos vencem. Mas, se ambos forem os únicos vivos no final da partida, o casal sai vitorioso e todos os demais jogadores são derrotados.</value>
 	</string>
 	<string key="HunterLynchedChoice">
-		<value>A aldeia resolveu sancionar você! É a sua última chance de usar seu querido ####três oitão!</value>
+		<value>As Nações resolveram sancionar você! É a sua última chance de usar seu querido fuzil!</value>
 	</string>
 	<string key="HunterNoChoiceLynched">
-		<value>{0}#### tenta alcançar sua pistola enquanto o nó aperta, mas seus dedos estão cansados e, antes de alcançar o coldre, seu pescoço estala na forca, anunciando sua morte...</value>
+		<value>{0} tenta alcançar seu fuzil, mas é logo derrubado pelos oficiais da sessão e arrastado para fora do fórum...</value>
 	</string>
 	<string key="HunterSkipChoiceLynched">
-		<value>{0}#### saca seu revólver, e aponta para a multidão... Seus olhos de caçador tentam decidir quem ele vai levar com ele. Mas ele aceita seu fim, sozinho...</value>
+		<value>{0}#### saca sua arma, e aponta para a multidão... Seus olhos treinados tentam decidir quem ele vai levar com ele. Mas ele solta o fuzil, que cai ao chão, e é escoltado pacificamente pelas autoridades...</value>
 	</string>
 	<string key="HunterKilledFinalLynched">
-		<value>Com o nó em torno do pescoço,#### {0} saca seu revólver e, rápido como o bote de uma cobra, atira em {1}! "Hasta la vista, baby..." diz o Caçador para {1} que cai duro no chão. {2}</value>
+		<value>Furioso com a decisão do fórum, {0} saca seu fuzil e, rápido como o bote de uma cobra, atira em {1}! "Hasta la vista, baby..." diz o Paramilitar para {1} que cai duro no chão. {2}</value>
 	</string>
 	<string key="HunterShotChoice">
 		<value>Seu poder político está com os dias contados! Com seu último suspiro, você pode levar alguém com você... Seja rápido!</value>
 	</string>
 	<string key="HunterNoChoiceShot">
-		<value>{0} ####recebeu um ferimento profundo, tanto que ele não conseguiu nem mesmo sacar sua arma, caindo duro no chão...</value>
+		<value>{0} se move para sacar seu fuzil, antes que os oficiais o removam do fórum, mas ele percebe que esqueceu sua arma em casa...</value>
 	</string>
 	<string key="HunterSkipChoiceShot">
-		<value>{0}, ####calmo como se o sangue saindo de sua barriga não fosse nada, decide não dar seu último tiro, aceitando seu destino...</value>
+		<value>{0}, aceitando a decisão democrática das Nações, decide não dar seu último tiro, aceitando seu destino...</value>
 	</string>
 	<string key="HunterKilledFinalShot">
-		<value>{0} cai no#### chão, ferido mortalmente... Mas antes de morrer, ele puxa sua pistola e dá um tiro certeiro em {1}, que cai duro no chão, com um novo orifício na testa. {2}</value>
+		<value>{0} cai no chão, ferido mortalmente... Mas antes de morrer, ele puxa sua pistola e dá um tiro certeiro em {1}, que cai duro no chão, com um novo orifício na testa. {2}</value>
 	</string>
 	<string key="HunterShotWolfMulti">
-		<value>POW! POW! POW! Os delegados escutam o pipoco à noite! Os terroristas atacaram a pessoa errada, o ####Caçador não iria embora sozinho, levou {0} (um terrorista) junto com elx.</value>
+		<value>POW! POW! POW! Os delegados escutam o pipoco à noite! Os terroristas atacaram a pessoa errada, o Paramilitar não iria embora sozinho, levou {0} (um terrorista) junto com elx.</value>
 	</string>
 	<string key="HunterShotWolf">
-		<value>O terrorista tentou atacar a pessoa errada a noite passada! O ####Caçador sabe se proteger muito bem e deixou um presentinho pras Nações, o corpo de {0}!</value>
+		<value>O terrorista tentou atacar a pessoa errada a noite passada! O Paramilitar sabe se proteger muito bem e deixou um presentinho pras Nações, o corpo de {0}!</value>
 	</string>
 	<string key="SerialKillerKilledWolf">
 		<value>Os terroristas tentaram atacar a pessoa errada noite passada! {0} foi completamente desmanteladx na retaliação! O Imperador é imbatível!</value>
@@ -559,13 +559,13 @@
 		<value>Você foi visitar seu novo território com {0}. Mas chegando lá o Capacete Azul acabou com sua diversão! Sem anexos essa noite...</value>
 	</string>
 	<string key="CultConvertHunter">
-		<value>A Nova Ordem manda {0} para converter {1}. Chegando lá {0} é recebido com uma ####bala de três oitão bem no meio dos córneos! {0} tá morta...</value>
+		<value>A Nova Ordem manda {0} para converter {1}. Chegando lá {0} é recebido com uma bala de três oitão bem no meio dos córneos! {0} tá morta...</value>
 	</string>
 	<string key="CultConvertSerialKiller">
-		<value>A Nova Ordem manda {0} para converter {1}. Chegando lá {0} descobre que era melhor ter chamado outra nação. A cidade onde morava foi completamente revirada pelas forças imperiais. {0} está morta...</value>
+		<value>A Nova Ordem manda {0} para converter {1}. Chegando lá {0} descobre que era melhor ter se aproximado de outra nação. Homens do império levam-nx embora. {0} está morta...</value>
 	</string>
 	<string key="GuardKiller">
-		<value>Você tentou proteger a pessoa errada. O Imperador te convida para tomar um chá, o tipo de chá que deram pro Rasputin. O tipo de chá que você morre no final...</value>
+		<value>Você tentou proteger a pessoa errada. O Imperador te convida para tomar um chá, o tipo de chá com gostinho de cianeto. O tipo de chá que você morre depois de tomar...</value>
 	</string>
 	<string key="HarlotFuckKiller">
 		<value>Você visitou a embaixada de {0} para conversas diplomáticas. Mas elx não estava fim de conversinha. As forças imperiais logo tomaram o consulado, te fazendo de prisioneiro político enquanto as tropas marcham sobre sua cidade...</value>
@@ -574,7 +574,7 @@
 		<value>Parece que o Imperador não é muito ligado em conversar política! {0} foi preso durante uma missão diplomática. A conversa parecia muito unilateral.</value>
 	</string>
 	<string key="DGToMason">
-		<value>A Doppelgänger#### {0} agora se tornou um Maçom, assim como você!</value>
+		<value>A Doppelgänger#### {0} agora se tornou um Europeu, assim como você!</value>
 	</string>
 	<string key="DGTransformToMason">
 		<value>{0} morreu, e você agora é um Europeu.  Seus companheiros (se houver) são: {1}</value>
@@ -610,7 +610,7 @@
 		<value>Quem será o casal? ####Escolha o segundo amante.</value>
 	</string>
 	<string key="Hunter">
-		<value>####o Caçador 🎯</value>
+		<value>o Paramilitar 🎯</value>
 	</string>
 	<string key="Cupid">
 		<value>o Cupido#### 🏹</value>
@@ -619,7 +619,7 @@
 		<value>o Imperador 🔪</value>
 	</string>
 	<string key="Doppelgänger">
-		<value>a Doppelgänger 🎭</value>
+		<value>a Doppelgänger#### 🎭</value>
 	</string>
 	<string key="NewWCRoleModel">
 		<value>Você se tornou o Colonizado. Sua metrópole é {0}</value>
@@ -628,7 +628,7 @@
 		<value>Os amantes venceram! Queriam o que né? O Amor sempre vence!####</value>
 	</string>
 	<string key="HunterKilledVisiter">
-		<value>Quando acordam, vocês encontram {0} largado no meio da praça, parecendo uma peneira por causa dos tiros. Parece que alguém visitou o Caçador e se deu mal!#### {1}</value>
+		<value>No início da sessão, vocês são avisados que {0} . Parece que alguém visitou o Paramilitar e se deu mal! {1}</value>
 	</string>
 	<string key="CultAttempt">
 		<value>Alguém bateu na sua porta a noite, "Olá, você tem um minuto para escutar o plano da Nova Ordem Mundial?" Você fecha a porta na cara deles, muito satisfeitx com a atual conjuntura, mas você se esqueceu de olhar o rosto delx!</value>
@@ -649,7 +649,7 @@
 		<value>A conjuntura se desabou em completo caos. Códigos nucleares voam pra lá e pra cá. Ninguém ganhou.</value>
 	</string>
 	<string key="SKHunterEnd">
-		<value>O sol nasce no horizonte, {0} e {1} são os únicos delegados.  {0} se aproxima sorridente de {1}, e o convida para uma brincadeira.####  {1} rápido como o trovão saca sua arma e atira em {0}. {0}, com seu último suspiro, joga sua faca em {1}. Ambos morreram, o dia acaba e não houve nenhum vencedor para contar história...</value>
+		<value>O sol nasce no horizonte, {0} e {1} são os únicos delegados presentes.  {0} se aproxima sorridente de {1}, enquanto suas tropas preenchem a sala de reuniões.  {1} rápido como o trovão saca sua arma e atira em {0}. Os homens de {0}, pouco antes de testemunharem a morte de seu líder, revidam fuzilando o corpo de {1}. Ambos morreram, o dia acaba e não houve nenhum vencedor para contar história...</value>
 	</string>
 	<string key="RoleModelChosen">
 		<value>Você não decidiu a tempo, então o bot escolheu por você: {0}</value>
@@ -951,7 +951,7 @@
 		<value>Seu sem noção, você é o Desajeitado: Você vai tentar votar, mas há uma chance de 50% de votar em outra pessoa em vez daquele em quem você pretendia. Mesmo assim, você está no time das Nações.</value>
 	</string>
 	<string key="RoleInfoSorcerer">
-		<value>Você é a Infiltrada, e se junta aos extremistas, ao invés dos delegados. À noite, você usará sua posição para encontrar os terroristas ou a Espiã. Você ganha somente se os terroristas ganharem. Desfrute de ajudar a exterminar esses miseráveis infiéis. </value>
+		<value>Você é a Contrainteligência, e se junta aos extremistas, ao invés dos delegados. À noite, você usará sua posição para encontrar os terroristas ou a Espiã. Você ganha somente se os terroristas ganharem. Desfrute de ajudar a exterminar esses miseráveis infiéis. </value>
 	</string>
 	<string key="RoleInfoBlacksmith">
 		<value>Você é o Anti-Bombas: o especialista no assunto. Você tem alguns equipamentos , o suficiente para impedir os terroristas de atacar por uma noite. Durante o dia, você poderá fazer uma ronda e usá-los para interceptar explosivos. </value>
@@ -966,10 +966,10 @@
 		<value>As Nações se preparam para oficializar as sanções em {0}, que grita, "Esperem! Eu sou o Secretário-Geral. Esse crachá, com o selo da ONU, prova isso. Toda noite eu estou rodeado de oficiais, então não posso ser um inimigo." Se sentindo tolos, os delegados terminam a sessão com o rabo entre as pernas.</value>
 	</string>
 	<string key="SorcererOther">
-		<value>Você tenta ver {0}, mas tudo o que consegue enxergar é que elx não é a Espiã nem um Terrorista...</value>
+		<value>Você tenta investigar {0}, mas tudo o que consegue enxergar é que elx não é a Espiã nem um Terrorista...</value>
 	</string>
 	<string key="MayorReveal">
-		<value>{0} dá um passo à frente e mostra o selo oficial dos Membros Permanentes, declarando que seu cargo. De agora em diante, os votos de {0} para sancionar alguém serão contados duas vezes.</value>
+		<value>{0} dá um passo à frente e mostra o selo oficial dos Membros Permanentes, declarando seu cargo. De agora em diante, os votos de {0} para sancionar alguém serão contados duas vezes.</value>
 	</string>
 	<string key="AskMayor">
 		<value>Clique em "Revelar" quando estiver pronto para se revelar como o Membro Permanente</value>
@@ -978,10 +978,10 @@
 		<value>Revelar</value>
 	</string>
 	<string key="SpreadDust">
-		<value>Você quer espalhar pó de prata hoje, impedindo os lobos de atacar essa noite?</value>
+		<value>Você quer fazer uma ronda anti-terrorista, impedindo que eles ataquem esta noite?</value>
 	</string>
 	<string key="BlacksmithSpreadSilver">
-		<value>Enquanto o resto da aldeia debate sobre o que está acontecendo, {0} anda por aí espalhando pó de prata pelo chão. Pelo menos por enquanto, a aldeia estará segura de ataques de lobisomens.</value>
+		<value>Enquanto o resto dos delegados debate sobre o que está acontecendo, {0} anda por aí com seu fofíssimo cão farejador. Pelo menos por enquanto, os delegados estarão seguros de ataques terroristas.</value>
 	</string>
 	<string key="Mayor">
 		<value>o Membro Permanente 🎖</value>
@@ -990,7 +990,7 @@
 		<value>o Secretário-Geral 👑</value>
 	</string>
 	<string key="Sorcerer">
-		<value>a Infiltrada 🔮</value>
+		<value>a Contrainteligência 🔮</value>
 	</string>
 	<string key="ClumsyGuy">
 		<value>o Desajeitado 🤕</value>
@@ -1020,7 +1020,7 @@
 		<value>O Secretário-Geral é uma parte importante das Nações Unidas. Assim que tentam sancioná-lo, seu papel de Secretário-Geral é revelado, e ele irá sobreviver. Assim, só poderá ser morto durante a noite, ou por um ####caçador.</value>
 	</string>
 	<string key="AboutSorcerer">
-		<value>Você se lembra da boa e velha Espiã? Bem, agora os Terroristas têm uma, e é a Infiltrada. Ela pode apenas 'ver' os Terroristas e Espiãs, e é da facção Terrorista.</value>
+		<value>Você se lembra da boa e velha Espiã? Bem, agora os Terroristas têm uma, e é a Contrainteligência. Ela pode apenas 'ver' os Terroristas e Espiãs, e é da facção Terrorista.</value>
 	</string>
 	<string key="AboutClumsy">
 		<value>Você é o Desajeitado. Você é um sem noção, se confunde o tempo todo e às vezes não consegue apontar para a pessoa certa. Será que você consegue votar corretamente na hora de sancionar alguém? (Você tem 50% de chance de votar em alguém aleatório no lugar da pessoa escolhida)</value>
@@ -1103,7 +1103,7 @@
 		<value>Agências de Inteligência reportam o assassinato de {0}, interceptada em uma missão nos territórios do Imperador.</value>
 	</string>
 	<string key="SorcererEaten">
-		<value>Cercada pelos terroristas, a vítima tenta um último apelo: "Seus burros, sou sua aliada, não me matem!!!". Mas não foi suficiente para conter o fúria extremista. Parece que um erro foi cometido. A Infiltrada {0} está morta.</value>
+		<value>Cercada pelos terroristas, a vítima tenta um último apelo: "Seus burros, sou sua aliada, não me matem!!!". Mas não foi suficiente para conter o fúria extremista. Parece que um erro foi cometido. A Contrainteligência {0} está morta.</value>
 	</string>
 	<string key="WildChildEaten">
 		<value>CABUUUM! Nada tão bonito quanto ver uma jovem nação dependente tomada pela causa extremista. {0}, o Colonizado, morreu num bombardeio!</value>
@@ -1124,13 +1124,13 @@
 		<value>{0} tentou proteger um Terrorista ontem a noite. Seu Capacete Azul continuou firmemente grudado à sua cabeça durante a decepagem.</value>
 	</string>
 	<string key="HunterKillsWolfEnd">
-		<value>Apenas {0} e {1} sobreviveram, e {1} queria mudar isso... Na calada da noite, se dirigiu à casa de {0}, sem nem desconfiar que não seria fácil assim matar o Caçador. ####O que restou de {1} foi sua carcaça, que foi usada como enfeite. O último Lobisomem morreu!</value>
+		<value>Apenas {0} e {1} sobreviveram, e {1} queria mudar isso... Na calada da noite, se dirigiu ao consulado de {0}, sem nem desconfiar que não seria fácil assim matar o Paramilitar. O que restou de {1} foram trapos ensanguentados de uma vestimenta tradicional, que sujaram o chão encerado da embaixada. O último Terrorista morreu!</value>
 	</string>
 	<string key="WolfKillsHunterEnd">
-		<value>Apenas {0} e {1} sobreviveram, e {1} queria mudar isso... Na calada da noite, se dirigiu à casa de {0}, que ainda estava dormindo. ####O que restou de {0} foi apenas sua mão, segurando um revólver.</value>
+		<value>Apenas {0} e {1} sobreviveram, e {1} queria mudar isso... Na calada da noite, se dirigiu ao consulado de {0}, que dormia em serviço. O que restou de {0} foi apenas sua mão, segurando um revólver.</value>
 	</string>
 	<string key="CHKillsCultistEnd">
-		<value>Vendo atividades estranhas no consulado de {0}, {1} já se dá conta que {0} faz parte da Nova Ordem. Então, {1} o Imperador anexou todo o país onde morava {0}. Agora as Nações estão salvas dos planos da Nova Ordem Mundial.</value>
+		<value>Vendo atividades estranhas no consulado de {0}, {1} já se dá conta que {0} faz parte da Nova Ordem. Então, o Imperador anexou todo o país de {0}. Agora as Nações estão salvas dos planos da Nova Ordem Mundial.</value>
 	</string>
 	<string key="SecondsAdded">
 		<value>O tempo de entrada foi estendido em {0} segundos! Agora restam {1} segundos para se juntar à partida!</value>
@@ -1158,7 +1158,7 @@
 		<value>Tempo máximo para estender o jogo foi mudado para {0} segundos.</value>
 	</string>
 	<string key="WolvesEatDrunkBlockSecondKill">
-		<value>Péssima escolha! {0} era o Bêbado! Agora você não poderá matar {1}!</value>
+		<value>Péssima escolha! {0} era o ####Bêbado! Agora você não poderá matar {1}!</value>
 	</string>
 	<string key="JoinButton">
 		<value>Entrar na partida</value>
@@ -1274,7 +1274,7 @@
 		<value>Pular</value>
 	</string><!-- New Roles, April 2018 -->
 	<string key="DGTransformToLycan"><!-- 0 - target's name --><!-- 1 - teammates's name -->
-		<value>{0} morreu, e você se transformou na Lupina. Sua alcateia (se houver) é: {1}</value>
+		<value>{0} morreu, e você se transformou na Infiltrada. Sua facção (se houver) é: {1}</value>
 	</string>
 	<string key="NegSeerSees"><!-- 0 - target's name --><!-- 1 - role that they are not -->
 		<value>Você vê que {0} NÃO É {1}!</value>
@@ -1283,7 +1283,7 @@
 		<value>Você quer dar uma longa palestra esta noite?</value>
 	</string>
 	<string key="SandmanSleepAll">
-		<value>Tentando ajudar com seu conhecimento, {0} decide dar uma palestra em que toda a vila está presente, tentando durante horas fingir interesse em milhares de textões contendo séculos de informações inúteis sobre lobos e lendas. Até que todos os espectadores acabam pegando no sono. Eles dormirão a noite inteira, e ninguém será capaz de realizar ações noturnas.</value>
+		<value>Tentando ajudar com seu conhecimento, {0} decide dar uma palestra em que todos os delegações estão presentes, tentando durante horas fingir interesse em milhares de textões contendo séculos de informações complicadas sobre estratégias anti-terroristas. Até que todos os espectadores acabam pegando no sono. Eles dormirão a noite inteira, e ninguém será capaz de realizar ações noturnas.</value>
 	</string>
 	<string key="SandmanNight">
 		<value>Todos vão para a casa após a palestra, mal conseguindo alcançar suas camas de tanto sono.  Eles caem em um sono tão pesado que nem se lembram mais do que assistiram...</value>
@@ -1307,58 +1307,58 @@
 		<value>Ladra Ativa Toda Noite</value>
 	</string>
 	<string key="RoleInfoWolfMan">
-		<value>Você é o Homem-Lobo, um simples aldeão que foi criado por lobos na floresta durante sua infância. Em razão da aura do seu passado, a Vidente ficará confusa e o verá como um Lobisomem! Vixe...</value>
+		<value>Você é o Religioso, um simples delegado da mesma religião dos extremistas. Como a Inteligência não é tão inteligente assim, a Espiã ficará confusa e o verá como um Terrorista! Vixe...</value>
 	</string>
 	<string key="WolfMan">
-		<value>o Homem-Lobo! 👱🌚</value>
+		<value>o Religioso! 👱🌚</value>
 	</string>
 	<string key="AboutWolfMan">
-		<value>Você é o Homem-Lobo, um simples aldeão que foi criado por lobos na floresta durante sua infância. Em razão da aura do seu passado, a Vidente ficará confusa e pensará que você é um Lobisomem!</value>
+		<value>Você é o Religioso, um simples delegado da mesma religião dos extremistas. Como a Inteligência não é tão inteligente assim, a Espiã ficará confusa e o verá como um Terrorista! 
 	</string>
 	<string key="RoleInfoLycan">
-		<value>Você é a Lupina, uma loba inteligentíssima que sabe se disfarçar bem!  Apesar de ser uma loba, a Vidente a enxergará como simples aldeã! :)</value>
+		<value>Você é a Infiltrada, uma terrorista inteligentíssima que sabe se disfarçar bem!  Apesar de ser uma terrorista, a Espiã a enxergará como simples delegada! :)</value>
 	</string>
 	<string key="Lycan">
-		<value>a Lupina 🐺🌝</value>
+		<value>a Infiltrada 🐺🌝</value>
 	</string>
 	<string key="AboutLycan">
-		<value>A Lupina é uma loba, mas parecerá ser uma simples aldeã aos olhos da Vidente.</value>
+		<value>A Infiltrada é uma terrorista, mas parecerá ser uma simples delegada aos olhos da Espiã.</value>
 	</string>
 	<string key="RoleInfoOracle">
-		<value>Você é o Oráculo.  Toda noite você poderá usar seus poderes para investigar alguém, mas só será capaz de enxergar um personagem que essa pessoa NÃO é.  O papel que você sentirá pertence a alguém ainda vivo no jogo no momento em que você escolheu usar seu poder, então preste atenção ao papel que aparece, pois isso significa que alguém que está vivo o possui. :)</value>
+		<value>Você é o Itamaraty.  Toda noite você poderá usar suas conexões nos consulados para investigar alguém, mas só será capaz de enxergar um personagem que essa pessoa NÃO é.  O papel que você sentirá pertence a alguém ainda vivo no jogo no momento em que você escolheu usar seu poder, então preste atenção ao papel que aparece, pois isso significa que alguém que está vivo o possui. :)</value>
 	</string>
 	<string key="Oracle">
-		<value>o Oráculo 🌀</value>
+		<value>o Itamaraty 🌀</value>
 	</string>
 	<string key="AboutOracle">
-		<value>O Oráculo saberá um papel que NÃO pertence à pessoa escolhida. O papel será dado aleatoriamente, selecionado entre aqueles que ainda estão vivos no jogo.</value>
+		<value>O Itamaraty saberá um papel que NÃO pertence à pessoa escolhida. O papel será dado aleatoriamente, selecionado entre aqueles que ainda estão vivos no jogo.</value>
 	</string>
 	<string key="RoleInfoSandman">
-		<value>Você é o Palestrante.  Uma vez por partida, você pode compartilhar seus conhecimentos sobre lobos e tentar, finalmente, que as pessoas se interessem por sua palestra em vez de dormir. SPOILER: você falhará miseravelmente, e todos os habitantes da aldeia passarão a noite em um sono pesado após sua palestra, sendo incapazes de realizar qualquer ação noturna.</value>
+		<value>Você é o Palestrante.  Uma vez por partida, você pode compartilhar seus conhecimentos sobre terroristas e tentar, finalmente, que as pessoas se interessem por sua palestra em vez de dormir. SPOILER: você falhará miseravelmente, e todos os delegados passarão a noite em um sono pesado após sua palestra, sendo incapazes de realizar qualquer ação noturna.</value>
 	</string>
 	<string key="Sandman">
 		<value>o Palestrante  💤</value>
 	</string>
 	<string key="AboutSandman">
-		<value> Uma vez por partida, o Palestrante pode induzir toda a aldeia ao sono, fazendo com que ninguém seja capaz de usar suas ações noturnas.</value>
+		<value> Uma vez por partida, o Palestrante pode induzir todas as delegações ao sono, fazendo com que ninguém seja capaz de usar suas ações noturnas.</value>
 	</string><!-- NOT IMPLEMENTED YET -->
 	<string key="RoleInfoPacifist">
-		<value>Você é o Pacifista. Você pode escolher fazer um discurso super sincero sobre paz pra convencer todos em sua aldeia a não linchar ninguém. Isso só pode ser feito uma vez.</value>
+		<value>Você é o Liberal. Você pode escolher fazer um discurso super sincero sobre paz e Bretton Woods pra convencer todos os delegados a não linchar ninguém. Isso só pode ser feito uma vez.</value>
 	</string>
 	<string key="Pacifist">
-		<value>o Pacifista ☮️</value>
+		<value>o Liberal ☮️</value>
 	</string>
 	<string key="AboutPacifist">
-		<value>O Pacifista pode escolher fazer um discurso sobre paz pra convencer todos em sua aldeia a não linchar ninguém. Isso só pode ser feito uma vez.</value>
+		<value>O Liberal pode escolher fazer um discurso sobre paz e união pra convencer todos os reunidos a não sancionar ninguém. Isso só pode ser feito uma vez.</value>
 	</string>
 	<string key="RoleInfoWiseElder">
-		<value>Você é o Ancião. Você pode sobreviver ao ataque do lobisomem uma vez - mas como você é velho pra cacete, na segunda vez ele pode te devorar. Se a Atiradora, o Caçador ou o Alquimista te matarem com suas habilidades, eles irão perder seus poderes por tristeza de matar um velhote como você e se tornarão um aldeão comum.</value>
+		<value>Você é o Premiê. Você pode sobreviver ao ataque do lobisomem uma vez - mas como você é velho pra cacete, na segunda vez ele pode te devorar. Se a Atiradora, o Caçador ou o Alquimista te matarem com suas habilidades, eles irão perder seus poderes por tristeza de matar um velhote como você e se tornarão um aldeão comum.</value>
 	</string>
 	<string key="WiseElder">
-		<value> o Ancião 📚</value>
+		<value> o Premiê 📚</value>
 	</string>
 	<string key="AboutWiseElder">
-		<value>O Ancião pode sobreviver ao ataque do lobisomem uma vez - a segunda vez ele pode ser devorado. Se a Atiradora,o Caçador ou o Alquimista o matarem com suas habilidades, eles irão perder seus poderes por tristeza de matar o velho e se tornarão um aldeão comum.</value>
+		<value>O Premiê pode sobreviver ao ataque dos terroristas uma vez - a segunda vez ele pode ser bombardeado. Se a OTAN, o Paramilitar ou o Alquimista#### o matarem com suas habilidades, eles irão perder seus poderes por tristeza de matar um líder internacional e se tornarão um delegado comum.</value>
 	</string>
 	<string key="RoleInfoThief">
 		<value>Você é a Ladra! Você pode roubar o papel de um jogador na primeira noite e transformar o jogador em um aldeão!</value>
@@ -1367,37 +1367,37 @@
 		<value>Você é a Ladra! Como o modo Ladra Ativa Toda Noite está ligado, você tem 50% de chance de roubar o papel de um jogador toda noite, e se tiver sucesso, ele se tornará a nova Ladra!</value>
 	</string>
 	<string key="Thief">
-		<value>a Ladra 😈</value>
+		<value>a Ladra 😈####</value>
 	</string>
 	<string key="AboutThief">
 		<value>Por padrão, a Ladra pode roubar o papel de um jogador na primeira noite e transformar o jogador em um aldeão. \nSe o modo Ladra Ativa Toda Noite está ligado, ela tem 50% de chance de roubar o papel de um jogador toda noite, e se tiver sucesso, esse jogador se torna a nova Ladra.</value>
 	</string>
 	<string key="AskPacifist">
-		<value>Aperte este botão quando você quiser fazer um discurso sincero e impedir a aldeia de linchar alguém na próxima rodada!</value>
+		<value>Aperte este botão quando você quiser fazer um discurso sincero e impedir as Nações de sancionar alguém na próxima rodada!</value>
 	</string>
 	<string key="PacifistNoLynch"><!-- {0} - Pacifist's name -->
-		<value>O Pacifista, {0}, fez um discurso super sincero sobre a paz mundial e o amor fraternal na frente da aldeia. Claro que ninguém liga, mas só pra deixar o Pacifista feliz, ninguém será linchado.</value>
+		<value>O Liberal, {0}, fez um discurso super sincero sobre a paz mundial e a carta da ONU na frente dos delegados. Claro que ninguém liga, mas só pra deixar o Liberal feliz, ninguém será sancionado.</value>
 	</string>
 	<string key="PacifistNoLynchNow">
-		<value>Por causa do discurso sincero do Pacifista, a fase de linchamento será pulada hoje!</value>
+		<value>Por causa do discurso sincero do Liberal, a fase de sanções será pulada hoje!</value>
 	</string>
 	<string key="WolvesTriedToEatWiseElder"><!-- 0 - Wise Elder's name -->
-		<value>Você tentou invadir a casa de {0}, mas infelizmente ele é o Ancião! {0} impediu seu ataque, mas como é velho, não lembra do invasor.</value>
+		<value>Você tentou invadir o consulado de {0}, mas infelizmente ele é o Premiê! {0} fugiu do seu ataque, mas não tem informações sobre quem o atacou.</value>
 	</string>
 	<string key="WolvesAteWiseElderPM">
-		<value>Os lobos tentaram de devorar, mas você não se tornou o Ancião por ser alvo fácil para um invasor! Você impediu o ataque, mas sua memória de velho não lembra de nenhum invasor.</value>
+		<value>Os terroristas tentaram te explodir, mas o Serviço Secreto é muito bem treinado! Você fugiu do ataque, mas ainda não tem informações sobre o reponsável.</value>
 	</string>
 	<string key="HunterKilledWiseElder"><!-- {0} - Hunter's Name --><!-- {1} - Wise Elder's Name -->
-		<value>O Caçador, {0} atirou no Ancião, {1}. {0} soluçou com profunda tristeza por acertá-lo e jurou abandonar sua carreira de Caçador. Ele morreu como um Aldeão comum.</value>
+		<value>O Paramilitar, {0} atirou no Premiê, {1}. {0} foi desonerado de sua carreira de Paramilitar. Ele morreu como um Delegado comum.</value>
 	</string>
 	<string key="GunnerShotWiseElder"><!-- {0} - Gunner's Name --><!-- {1} - Wise Elder's Name -->
-		<value>A Atiradora, {0} atirou no Ancião, {1}. {0}, completamente arrepedinda, se despediu de sua maior amante, sua arma, se tornando um Aldeão comum com um campo pra arar.</value>
+		<value>A OTAN, {0} atirou no Premiê, {1}. {0}, completamente arrepedinda, se despediu de seu maior amante, seu exército, se tornando um delegado comum no meio da multidão.</value>
 	</string>
 	<string key="ThiefStealFailed"><!-- {0} - The name of the thief's target -->
 		<value>Você tentou roubar o papel de {0}, mas infelizmente você falhou...</value>
 	</string>
 	<string key="ThiefStealDead"><!-- {0} - The name of the thief's target -->
-		<value>Você tentou roubar o papel de {0}, mas ele já morreu...</value>
+		<value>Você tentou roubar o papel de {0}, mas elx já morreu...</value>
 	</string>
 	<string key="ThiefStoleYourRole" deprecated="true"><!-- {0} - The new role -->
 		<value>Seu papel foi roubado! Agora você é {0}.</value>
@@ -1412,16 +1412,16 @@
 		<value>Seus companheiros (se houver) são: {0}</value>
 	</string>
 	<string key="ThiefToCult"><!-- 0 - old cultist's name --><!-- 1 - new cultist's name -->
-		<value>{0} não é mais seu companheiro e {1} se tornou um membro da seita, assim como você!</value>
+		<value>{0} não é mais seu companheiro e {1} se tornou um membro da Nova Ordem Mundial, assim como você!</value>
 	</string>
 	<string key="ThiefToWolf"><!-- 0 - old wolf's name --><!-- 1 - new wolf's name -->
-		<value>{0} não é mais seu companheiro e {1} se tornou um lobo, assim como você!</value>
+		<value>{0} não é mais seu companheiro e {1} se tornou um terrorista, assim como você!</value>
 	</string>
 	<string key="ThiefTransformNewTeammates"><!-- 0 - teammates's name -->
 		<value>Seus companheiros (se houver) são: {0}</value>
 	</string>
 	<string key="ThiefEnd"><!-- 0 - Thief's name -->
-		<value>Conforme {0} anda pelo vilarejo, ela vê que não há nenhum papel interessante para roubar. Ela deixa essa aldeia pobre e procurar outro lugar para recomeçar sua carreira como uma diva dos assaltos.</value>
+		<value>####Conforme {0} anda pelo vilarejo, ela vê que não há nenhum papel interessante para roubar. Ela deixa essa aldeia pobre e procurar outro lugar para recomeçar sua carreira como uma diva dos assaltos.</value>
 	</string>
 	<string key="ThiefStealChosen"><!-- 0 - target's name -->
 		<value>Seu alvo agora é {0}.</value>
@@ -1433,7 +1433,7 @@
 		<value>{0} votos foram para {1}: {2}</value>
 	</string>
 	<string key="SecretLynchResultFull"><!-- 0 - A list of "SecretLynchResultEach" or "SecretLynchResultNumber" -->
-		<value>O resultado do linchamento para hoje:\n{0}</value>
+		<value>O resultado do sancionamento para hoje:\n{0}</value>
 	</string>
 	<string key="SecretLynchResultNumber"><!-- 0 - Number of votes --><!-- 1 - Player got lynched -->
 		<value>{0} votos foram para {1}.</value>
@@ -1457,26 +1457,26 @@
 		<value>Quando o linchamento secreto estiver ativo e a contagem de votos estiver sendo exibida, o nome do votante para cada jogador votado será: {0}</value>
 	</string>
 	<string key="CultistBitten"><!-- {0} - Cultist that was bitten by the Alpha Wolf -->
-		<value>Estranho... No momento em que você começa a discurtir sobre quem converter esta noite, percebe que {0} não está aqui! Mas o que aconteceu com ele??</value>
+		<value>Estranho... No momento em que você começa a discutir sobre quem converter esta noite, percebe que {0} não está aqui! Mas o que aconteceu com ele??</value>
 	</string>
 	<string key="Peace"><!-- Used for Pacifist's button -->
 		<value>Paz!</value>
 	</string>
 	<string key="LynchPeaceTimeout"><!-- Used in PM if the pacifist uses his ability during lynch phase -->
-		<value>O Linchamento de hoje foi pulado por causa do discurso sincero do Pacifista!</value>
+		<value>As sanções de hoje foram puladas por causa do discurso sincero do Liberal!</value>
 	</string>
 	<string key="ThiefStoleYourRoleThief">
-		<value>Seu papel foi roubado! Você é a nova Ladra agora e poderá roubar um papel na próxima noite!</value>
+		<value>Seu papel foi roubado! Você é a nova Ladra ####agora e poderá roubar um papel na próxima noite!</value>
 	</string>
 	<string key="ThiefStoleYourRoleVillager">
-		<value>Seu papel foi roubado! Agora você é um Aldeão, arando campos todos os dias.</value>
+		<value>Seu papel foi roubado! Agora você é um delegado, com vários papéis pra preencher.</value>
 	</string>
 	<string key="SerialKillerKilledYou" isgif="true">
-		<value>Toc toc, você foi visitado pelo Serial Killer!</value>
-		<value>O Serial Killer te atacou de surpresa, te amarrou e te esfaqueou no coração!</value>
+		<value>Toc toc, você foi visitado pelo Imperador!</value>
+		<value>As tropas imperiais invadiram seu consulado, cercaram todos os oficiais e te prenderam!</value>
 	</string>
 	<string key="ThiefTeamEnd">
-		<value>Time da Ladra</value>
+		<value>####Time da Ladra</value>
 	</string>
 	<string key="StealKiller">
 		<value>Você tentou roubar um papel... mas seu alvo era o Serial Killer! No mundo do crime, ele tem um pouco mais experiência que você: ele te matou assim que te viu.</value>
@@ -1488,37 +1488,37 @@
 		<value>A Ladra roubou o papel da vidente!{0} é a vidente agora, e {1} não tem mais habilidades de vidência!</value>
 	</string><!-- New roles 28.12.2018 -->
 	<string key="Troublemaker">
-		<value>o Barraqueiro 🤯</value>
+		<value>o General 🤯</value>
 	</string>
 	<string key="AboutTroublemaker">
-		<value>O Barraqueiro é o adolescente revoltado do vilarejo. Quando ele começa a gritar, a aldeia inteira fica fora de controle. Para calar a boca dele, eles farão linchamento duplo nesse dia!</value>
+		<value>O General é o militar revoltado do vilarejo. Quando ele começa a gritar, todas as Nações ficam fora de controle. Para calar a boca dele, eles farão sancionamento duplo nesse dia!</value>
 	</string>
 	<string key="RoleInfoTroublemaker">
-		<value>Você é o Barraqueiro. Como o adolescente rebelde do vilarejo, você pode fazer o que quiser. Um dia, você pode chutar o pau da barraca e a aldeia linchará duas vezes nesse dia.</value>
+		<value>Você é o General. Como o militar rebelde do vilarejo, você pode fazer o que quiser. Um dia, você pode chutar o pau da barraca e as Nações sancionarão duas vezes nesse dia.</value>
 	</string>
 	<string key="AskTroublemaker">
 		<value>Você quer surtar hoje?</value>
 	</string>
 	<string key="TroublemakerDoubleLynch">
-		<value>{0}, o Barraqueiro, surtou, que agora está berrando e arranjando problemas! Só tem um jeito de calar a boca desse idiota... Vocês lincharão duas vezes hoje!</value>
+		<value>{0}, o General, surtou, que agora está berrando e criando crises diplomáticas! Só tem um jeito de calar a boca desse idiota... Vocês sancionarão duas vezes hoje!</value>
 	</string>
 	<string key="TroubleDoubleLynchNow">
-		<value>Por causa do barraqueiro, vocês irão fazer um linchamento duas vezes hoje! Com sorte ele cala a boca amanhã.</value>
+		<value>Por causa do general, vocês irão fazer duas sanções! Com sorte ele cala a boca amanhã.</value>
 	</string>
 	<string key="Chemist">
-		<value>o Alqumista 👨‍🔬</value>
+		<value>o Alqumista#### 👨‍🔬</value>
 	</string>
 	<string key="AboutChemist">
 		<value>O Alquimista é uma pessoa completamente louca que gosta de mexer com poções e fazer apostas... Com sua própria vida! Toda noite ele visita um membro do vilarejo e força eles a apostarem com ele... Duas poções idênticas, mas só na aparência: uma com um sabor de flores e a outra com um veneno mortal... Boa sorte se ele te visitar!</value>
 	</string>
 	<string key="RoleInfoChemist">
-		<value>Você é o Alquimista ! Você ama poções e se entrega a apostas arriscadas com sua própria vida. Claro que você une seus dois amores para tudo ser mais divertido: toda noite você pode visitar alguém levando duas poções em sua mala: uma venenosa e outra inofensiva, mas que parecem iguais. Seu anfitrião escolhe uma e você bebe a outra. Boa sorte!</value>
+		<value>Você é o Alquimista#### ! Você ama poções e se entrega a apostas arriscadas com sua própria vida. Claro que você une seus dois amores para tudo ser mais divertido: toda noite você pode visitar alguém levando duas poções em sua mala: uma venenosa e outra inofensiva, mas que parecem iguais. Seu anfitrião escolhe uma e você bebe a outra. Boa sorte!</value>
 	</string>
 	<string key="ChemistBrewing">
-		<value>Enquanto os outros aldeões dormem, você ainda está em seu laboratório, misturando poções para a próxima noite. Cuidado para não ser pego pelo lobo!</value>
+		<value>Enquanto os outros aldeões dormem,#### você ainda está em seu laboratório, misturando poções para a próxima noite. Cuidado para não ser pego pelo lobo!</value>
 	</string>
 	<string key="AskChemist">
-		<value>Quem seria um bom anfitrião e parceiro de apostas esta noite?</value>
+		<value>Quem seria um bom anfitrião e parceiro de apostas esta noite?####</value>
 	</string>
 	<string key="ChemistTargetDead">
 		<value>Você foi a casa de {0} beber com ele, mas, quando você chegou lá, ele já estava morto! É uma pena que ele não possa apostar com você.</value>
@@ -1527,19 +1527,19 @@
 		<value>Você foi visitado pelo Alquimista {0}! O maluco achou que uma faca ia te deter, mas percebeu que estava errado tarde demais...</value>
 	</string>
 	<string key="ChemistSK">
-		<value>Você vai à casa de {0} para apostar, mas ele era o Serial Killer e te esfaqueou!</value>
+		<value>Você vai à casa de {0} para apostar, mas ele era o Serial Killer e te esfaqueou!####</value>
 	</string>
 	<string key="ChemistSKPublic">
-		<value>O Alquimista foi apostar com a pessoa errada hoje. {0} é encontrado deitado sobre sua mala com a barriga aberta e duas garrafas de poções no lugar do seu fígado... O Serial Killer não curte jogos.</value>
+		<value>####O Alquimista foi apostar com a pessoa errada hoje. {0} é encontrado deitado sobre sua mala com a barriga aberta e duas garrafas de poções no lugar do seu fígado... O Serial Killer não curte jogos.</value>
 	</string>
 	<string key="ChemistVisitYouSuccess">
-		<value>Você foi visitado pelo Alquimista, que te ameaçou para fazer você beber uma poção. Você pega uma das duas, e quando se dá conta, já está no chão. Você morreu!</value>
+		<value>####Você foi visitado pelo Alquimista, que te ameaçou para fazer você beber uma poção. Você pega uma das duas, e quando se dá conta, já está no chão. Você morreu!</value>
 	</string>
 	<string key="ChemistSuccess">
-		<value>Você visitou {0} para apostar! Ele escolheu a venenosa e você voltou para casa, sorridente. Quem disse que apostas é um jogo de azar?</value>
+		<value>####Você visitou {0} para apostar! Ele escolheu a venenosa e você voltou para casa, sorridente. Quem disse que apostas é um jogo de azar?</value>
 	</string>
 	<string key="ChemistSuccessPublic"><!-- {0} - Chemist's victim --><!-- {1} - Will be replaced by "(victim) was (role)" -->
-		<value>O Alquimista visitou {0} esta noite e ele escolheu a poção venenosa! Enquanto o alquimista louco continua vivo, {0} morreu. {1}</value>
+		<value>####O Alquimista visitou {0} esta noite e ele escolheu a poção venenosa! Enquanto o alquimista louco continua vivo, {0} morreu. {1}</value>
 	</string>
 	<string key="ChemistVisitYouFail">
 		<value>Você foi visitado pelo Alquimista {0}, que te mostrou duas poções e te forçou a escolher uma. Você olha para ele, que mostra que está armado, e bebe tudo de uma vez. Você sente um gosto estranho e percebe que você escolheu a poção boa! Isso que é sorte.</value>
@@ -1551,94 +1551,94 @@
 		<value>O Alquimista {0} foi encontrado morto! Aparentemente, {0} ele bebeu a poção venenosa! Quem precisa de remédios?</value>
 	</string>
 	<string key="ChemistTargetEmpty">
-		<value>{0} não estava em casa! Essas pessoas não sabem como é triste perder uma noite de jogos.</value>
+		<value>{0} ####não estava em casa! Essas pessoas não sabem como é triste perder uma noite de jogos.</value>
 	</string>
 	<string key="CultistsList">
-		<value>Atualmente, os membros da seita são: {0}</value>
+		<value>Atualmente, os membros da Nova Ordem são: {0}</value>
 	</string>
 	<string key="SnowWolf">
-		<value>o Lobo das Neves 🐺☃️</value>
+		<value>o Terrorista Siberiano 🐺☃️</value>
 	</string>
 	<string key="RoleInfoSnowWolf">
-		<value>Você é o Lobo das Neves. Toda noite, ao invés de seguir a matilha para caçar alguém, você espreita por conta própria para congelar alguém de fora da matilha. Uma pessoa congelada não poderá usar ações noturnas, se tiver alguma. No entanto, sua vítima terá um pouco do resíduo de seu poder na próxima noite e não poderá ser congelada uma segunda vez consecutiva.</value>
+		<value>Você é o Terrorista Siberiano. Toda noite, ao invés de seguir a facção para matar alguém, você espreita por conta própria para congelar alguém de fora da facção. Uma pessoa congelada não poderá usar ações noturnas, se tiver alguma. No entanto, sua vítima terá um pouco do resíduo de seu poder na próxima noite e não poderá ser congelada uma segunda vez consecutiva.</value>
 	</string>
 	<string key="AboutSnowWolf">
-		<value>O Lobo das Neves é um lobo das montanhas cobertas de neve perto da aldeia. Sendo assim, ele dominou a arte de controlar a neve e o gelo. Tendo vivido num reino de isolamento por muito tempo, o Lobo das Neves prefere agir só. Ao invés de caçar com sua matilha à noite, ele escolhe uma vítima diferente para congelar, que fará com que ela não possa usar suas ações noturnas. No entanto, ela ainda terá um pouco do resíduo do poder do Lobo das Neves na próxima noite, deixando-a a imune ao congelamento por uma noite. </value>
+		<value>O Terrorista Siberiano é um extremista das colinas nevadas do Norte. Sendo assim, ele dominou a arte de controlar a neve e o gelo. Tendo vivido num reino de isolamento por muito tempo, o Terrorista Siberiano prefere agir só. Ao invés de atacar com sua facção à noite, ele escolhe uma vítima diferente para congelar, que fará com que ela não possa usar suas ações noturnas. No entanto, ela ainda terá um pouco do resíduo do poder do Terrorista Siberiano na próxima noite, deixando-a a imune ao congelamento por uma noite. </value>
 	</string>
 	<string key="AskFreeze">
 		<value>Quem você quer congelar esta noite?</value>
 	</string>
 	<string key="WolfPackList">
-		<value>A matilha consiste em {0}</value>
+		<value>A facção consiste em {0}</value>
 	</string>
 	<string key="WolfPackSnowList">
-		<value>A matilha consiste em {0} e no Lobo das Neves {1}</value>
+		<value>A facção consiste em {0} e no Terrorista Siberiano {1}</value>
 	</string>
 	<string key="DGTransformToAlphaWithSnow">
-		<value>{0} morreu, e você se transformou no Lobo Alfa. Os seus companheiros são: {1} e o Lobo das Neves {2}</value>
+		<value>{0} morreu, e você se transformou na Célula. Os seus companheiros são: {1} e o Terrorista Siberiano {2}</value>
 	</string>
 	<string key="DGTransformToWolfCubWithSnow">
-		<value>{0} morreu, e você se transformou no Filhote de Lobo. Os seus companheiros são: {1} e o Lobo das Neves {2}</value>
+		<value>{0} morreu, e você se transformou no Líder Terrorista. Os seus companheiros são: {1} e o Terrorista Siberiano {2}</value>
 	</string>
 	<string key="DGTransformToWolfWithSnow">
-		<value>{0} morreu, e você se transformou no Lobo. Os seus companheiros são: {1} e o Lobo das Neves {2}</value>
+		<value>{0} morreu, e você se transformou no Terrorista. Os seus companheiros são: {1} e o Terrorista Siberiano {2}</value>
 	</string>
 	<string key="DGTransformToLycanWithSnow">
-		<value>{0} morreu, e você se transformou na Lupina. Os seus companheiros são: {1} e o Lobo das Neves {2}</value>
+		<value>{0} morreu, e você se transformou na Infiltrada. Os seus companheiros são: {1} e o Terrorista Siberiano {2}</value>
 	</string>
 	<string key="DGTransformToSnowWolf">
-		<value>{0} morreu, e você se transformou no Lobo das Neves. Os seus companheiros (se houver) são: {1}</value>
+		<value>{0} morreu, e você se transformou no Terrorista Siberiano. Os seus companheiros (se houver) são: {1}</value>
 	</string>
 	<string key="DGToSnowWolf">
-		<value>A Doppelgänger {0} se tornou o novo lobo das neves!</value>
+		<value>A Doppelgänger {0} ####se tornou o novo Terrorista Siberiano!</value>
 	</string>
 	<string key="WildChildSnowTransform">
-		<value>{0} foi morto(a)! Num ataque de fúria, você se torna um lobisomem! Seus novos companheiros são: {1} e o Lobo das Neves {2}</value>
+		<value>{0} foi morto(a)! Jogado numa guerra civil, você se torna um terrorista! Seus novos companheiros são: {1} e o Terrorista Siberiano {2}</value>
 	</string>
 	<string key="ThiefToSnowWolf">
-		<value>{0} não é mais seu companheiro e {1} se tornou o novo lobo das neves!</value>
+		<value>{0} não é mais seu companheiro e {1} se tornou o novo Terrorista Siberiano!</value>
 	</string>
 	<string key="HarlotFrozen">
-		<value>Quando você abriu a porta para mais uma noite inteira de sexo, uma rajada de vento sopra da porta e congela você. O sol finalmente raiou, depois de passar a noite toda imaginando se ia conseguir descongelar a tempo de dar uma rapidinha.</value>
+		<value>Quando você abriu a porta para ir até o consulado, uma rajada de vento sopra da porta e congela você. O sol finalmente raiou, depois de passar a noite toda imaginando se a pessoa ficou te esperando.</value>
 	</string>
 	<string key="ChemistFrozen">
-		<value>Enquanto você sonhava em quem seria o idiota que iria escolher a poção errada, uma forte rajada de vento soprou das janelas e você congelou. Você vê o amanhecer irritado por perder uma noite de apostas.</value>
+		<value>####Enquanto você sonhava em quem seria o idiota que iria escolher a poção errada, uma forte rajada de vento soprou das janelas e você congelou. Você vê o amanhecer irritado por perder uma noite de apostas.</value>
 	</string>
 	<string key="CultistFrozen">
-		<value>Assim que você vestiu seu manto para sair, uma forte rajada soprou da porta. Quando seus companheiros passaram, eles olharam você de cima a baixo e riram da sua cara. Você sai de casa esta manhã amaldiçoando o maldito lobo das neves.</value>
+		<value>Assim que você vestiu seu terno para sair, uma forte rajada soprou da porta. Quando seus companheiros passaram, eles olharam você de cima a baixo e riram da sua cara. Você sai de casa esta manhã amaldiçoando o maldito terrorista siberiano.</value>
 	</string>
 	<string key="CHFrozen">
-		<value>Assim que você se prepara para mais uma caçada, uma rajada de vento te congela. Mais chances para os membros da seita converterem pessoas de mente fraca. Mas agora que amanheceu, você pode planejar quem verificar à noite. </value>
+		<value>Assim que você se prepara para investigar os conspiradores, uma rajada de vento te congela. Mais chances para os membros da Nova Ordem converterem pessoas de mente fraca. Mas agora que amanheceu, você pode planejar quem verificar à noite. </value>
 	</string>
 	<string key="SeeingFrozen"><!-- used for seer, fool, oracle and sorcerer -->
-		<value>Quando você finalmente começa a utilizar seus poderes, uma rajada de vento te congela. Você não sabe como, mas pelo jeito, a rajada foi tão forte que congelou até o cérebro. Você descongela de manhã cheio de raiva.</value>
+		<value>Quando você finalmente estabelece conexão com a central de Inteligência, uma rajada de vento te congela. Você não sabe como, mas pelo jeito, a rajada foi tão forte que congelou até o seu celular. Você descongela de manhã cheio de raiva.</value>
 	</string>
 	<string key="GAFrozen">
-		<value>Assim que abre suas asas, uma forte rajada de vento sopra das janelas e te congela. Agora você pode fazer parte dos enfeites de uma árvore de Natal! Você descongela de manhã prometendo vestir um casaco da próxima vez.</value>
+		<value>Assim que põe seu Capacete, uma forte rajada de vento sopra das janelas e te congela. Parece um soldado de terracota, só que de gelo! Você descongela de manhã prometendo vestir um casaco da próxima vez.</value>
 	</string>
 	<string key="SKFrozen">
-		<value>Enquanto você se preparava para sair e se divertir esta noite, uma rajada de vento te congela. Você descongela de manhã prometendo fazer o lobo das neves sentir a lâmina de sua faca como nenhuma vítima jamais sentiu.</value>
+		<value>Enquanto você se preparava para sair e fazer algum país de jardim esta noite, uma rajada de vento te congela. Você descongela de manhã prometendo anexar a bunda desse maldito terrorista siberiano.</value>
 	</string>
 	<string key="ThiefFrozen">
-		<value>Enquanto você andava aborrecida ao redor da aldeia, sentiu uma forte rajada de vento. Você congelou, incapaz de se mover. Felizmente, estava escuro o suficiente para você não ser reconhecida por ninguém que passou por você naquela noite. Quando você estava completamente descongelada ao amanhecer, você correu de volta para casa, irritada por perder uma noite de assalto.</value>
+		<value>####Enquanto você andava aborrecida ao redor da aldeia, sentiu uma forte rajada de vento. Você congelou, incapaz de se mover. Felizmente, estava escuro o suficiente para você não ser reconhecida por ninguém que passou por você naquela noite. Quando você estava completamente descongelada ao amanhecer, você correu de volta para casa, irritada por perder uma noite de assalto.</value>
 	</string>
 	<string key="DefaultFrozen"><!-- used for all roles without (every-)night action -->
 		<value>Enquanto dormia na noite passada, você de repente sentiu um frio enorme. Assim que você tenta se levantar, percebe que está congelado! Teve que esperar até o nascer do sol pra se livrar dessa maldição.</value>
 	</string>
 	<string key="GuardBlockedSnowWolf">
-		<value>Você vai até a casa de {0} para congelá-lo, mas lá dá de cara com uma criatura alta, elevada e cercada por luz, armada com uma espada e uma lança. O Anjo sai em defesa do alvo e, após uma luta ao som dos mais variados hits gospel e a trilha sonora de Frozen, o lado congelante sai derrotado e foge para casa.</value>
+		<value>Você vai até o consulado de {0} para congelá-lo, mas lá dá de cara com um soldado com o distintivo da ONU e um capacete icônico. O Capacete Azul sai em defesa do alvo, após uma luta ao som da trilha sonora de Frozen, o lado congelante sai derrotado e foge para casa.</value>
 	</string>
 	<string key="SuccessfulFreeze">
 		<value>Você congelou {0}! Essa noite, ele vai aprender que não se deve deixar o casaco em casa.</value>
 	</string>
 	<string key="SnowFrozeKiller">
-		<value>O lobo das neves {0} foi atrás de alguém para congelar na última noite, mas acabou indo soprar seus ventos gelados na casa errada! O Serial Killer percebeu e colocou um fim no inverno!</value>
+		<value>O terrorista siberiano {0} foi atrás de alguém para congelar na última noite, mas acabou indo soprar seus ventos gelados no consulado errado! O Imperador percebeu e colocou um fim no inverno!</value>
 	</string>
 	<string key="SnowWolfTurnWolf">
-		<value>Como todo o resto da matilha morreu, você não vai mais ter carne de graça. Sendo assim, você é obrigado a virar um lobo normal e dizer “vai embora” quando perguntam se você quer brincar na neve.</value>
+		<value>Como todo o resto da facção morreu, as coisas ficaram mais complicadas. Sendo assim, você é obrigado a virar um terrorista normal e dizer “vai embora” quando perguntam se você quer brincar na neve.</value>
 	</string>
 	<string key="SnowFrozeHunter"><!-- 0 - target's name -->
-		<value>O lobo das neves {0} tentou congelar o caçador na última noite, mas a trinta e oito dele foi mais rápida!</value>
+		<value>O terrorista siberiano {0} tentou congelar o paramilitar na última noite, mas a trinta e oito dele foi mais rápida!</value>
 	</string>
 	<string key="Lang">
 		<value>Mudar Idioma</value>
@@ -1692,7 +1692,7 @@
 		<value>A lista de jogadores será embaralhada toda vez: {0}</value>
 	</string>
 	<string key="AboutGraveDigger">
-		<value>Você é o Coveiro. Toda noite, é seu trabalho cavar os túmulos de todos os que morreram. Com esse seu turno diferenciado, quando a Seita ou os lobos forem até sua casa não vão te achar - a menos que ninguém morra e você ganhe uma folga. Quem te visita pode acabar caindo nas covas abertas, mas aqueles que lutam pela Aldeia tem menos chance de acabar sendo enterrados mais cedo. Uma vez que você trabalha à noite, a matilha e o Serial Killer podem acabar passando por você e te matando - mais do que isso, quando o Serial Killer escolhe uma vítima, ele acha ela de um jeito ou de outro. Caso ele decida brincar com você, as covas podem te vingar quebrando a perna dele... Sendo assim, ele pode acabar perdendo a chance de decidir quem matar e apenas escolher a opção mais prática.</value>
+		<value>####Você é o Coveiro. Toda noite, é seu trabalho cavar os túmulos de todos os que morreram. Com esse seu turno diferenciado, quando a Seita ou os lobos forem até sua casa não vão te achar - a menos que ninguém morra e você ganhe uma folga. Quem te visita pode acabar caindo nas covas abertas, mas aqueles que lutam pela Aldeia tem menos chance de acabar sendo enterrados mais cedo. Uma vez que você trabalha à noite, a matilha e o Serial Killer podem acabar passando por você e te matando - mais do que isso, quando o Serial Killer escolhe uma vítima, ele acha ela de um jeito ou de outro. Caso ele decida brincar com você, as covas podem te vingar quebrando a perna dele... Sendo assim, ele pode acabar perdendo a chance de decidir quem matar e apenas escolher a opção mais prática.</value>
 	</string>
 	<string key="RoleInfoGraveDigger">
 		<value>Você é o Coveiro. É sua responsabilidade ajudar os mortos a chegarem no seu destino final. Sendo assim, você cava uma cova funda para garantir que aqueles que morreram na última noite descansem em paz. Mas às vezes, você fica cansado e acaba dormindo sem terminar a seção de enterros. Quem te visitar pode acabar encontrando no seu comitê de boas-vindas e, com um pouco de azar, escolhendo sua própria cova. Por outro lado, os lobos não podem te comer, já que você ficou fora a noite toda.</value>
@@ -1827,79 +1827,79 @@ Atual: {0}</value>
 		<value>Arsonist and Serial Killer in same game are now {0}.</value>
 	</string>
 	<string key="AboutArsonist">
-		<value>Você é o Piromaníaco. Assim como o Serial Killer, você está sozinho no seu próprio time. Toda noite, você pode batizar uma casa com combustível. Assim que uma ou mais casas estiverem batizadas, você pode acender uma faísca ao invés de batizar, queimando todas as casas batizadas, matando todos dentro delas, incluindo possíveis visitantes. Você se ganha se for o último sobrevivente.</value>
+		<value>Você é o Fascista. Assim como o Imperador, você está sozinho no seu próprio time. Toda noite, você pode patrocinar movimentos nacionalistas num país. Assim que um ou mais países forem patrocinados, você pode acender uma faísca ao invés de batizar, iniciando um golpe em todos os países, matando todos os antigos diplomatas, incluindo possíveis visitantes. Você se ganha se for o último sobrevivente.</value>
 	</string>
 	<string key="RoleInfoArsonist">
-		<value>Você é o Piromaníaco. Toda noite, você pode batizar uma casa com combustível ou acender uma faísca, queimando todas as casas batizadas. Você só ganha se for o último sobrevivente.</value>
+		<value>Você é o Fascista. Toda noite, você pode patrocinar nacionalistas ou incitar um golpe, afetando a estrutura política de todos os patrocinados. Você só ganha se for o último sobrevivente.</value>
 	</string>
 	<string key="Arsonist">
-		<value>o Piromaníaco 🔥</value>
+		<value>o Fascista 🔥</value>
 	</string>
 	<string key="AskArsonist">
-		<value>Você quer batizar outra casa ou ver todas as batizadas queimando?</value>
+		<value>Você quer patrocinar um movimento nacionalista ou ver o exército nas ruas?</value>
 	</string><!--{0}: arsonist-->
 	<string key="ArsonistVisitKiller">
-		<value>O piromaníaco {0} tentou batizar a casa do Serial Killer... Péssima ideia.</value>
+		<value>O fascista {0} tentou incentivar um golpe militar no Imperador... péssima ideia.</value>
 	</string>
 	<string key="Spark">
-		<value>Faísca</value>
+		<value>Golpe!</value>
 	</string><!--{0}: person whose house was doused-->
 	<string key="Doused">
-		<value>Você consegui batizar a casa de {0} com combustível!</value>
+		<value>Você consegue reorganizar os extremistas autoritários no país de {0}!</value>
 	</string>
 	<string key="GuardSavedYouFromFire">
-		<value>Um incêndio começou em sua casa, mas o Anjo da Guarda estava lá e impediu o fogo! Ele seria um ótimo bombeiro, se não estivesse ocupado te protegendo.</value>
+		<value>Ocorreu uma tentativa de golpe no seu país, que foi barrada pelo Capacete Azul! E a ONU salva o status quo, mais uma vez.</value>
 	</string><!--{0}: saved person-->
 	<string key="GuardSavedFromFire">
-		<value>Você não esperava que um incêndio começasse ao visitar {0}, mas você prontamente apagou o fogo! Ninguém pode dizer que você é um mau protetor...</value>
+		<value>Você não esperava que um golpe militar fosse acontecer na sua visita à {0}, mas você prontamente desmantelou os militares! Ninguém pode dizer que você é um mau pacificador...</value>
 	</string><!--{0}: person whose house was cleaned-->
 	<string key="CleanDoused">
-		<value>Sem nenhum inimigo para enfrentar esta noite, você sentiu um cheiro diferente na casa de {0} e percebeu que a casa estava batizada com combustível! Para evitar qualquer acidente, você achou melhor limpar isso.</value>
+		<value>Sem nenhum inimigo para enfrentar esta noite, você sentiu um movimento estranho perto de {0} e percebeu um protesto nacionalista acontecendo! Para evitar problemas no futuro, você chamou a polícia, que cuidou do barraco.</value>
 	</string><!--{0}: list of people who died in the flames-->
 	<string key="Burning">
-		<value>A vila sente um cheiro de fumaça... Ela está em chamas! Você tenta apagar o fogo, mas era tarde demais para salvar os moradores das casas que misteriosamente estavam cheias de combustível. Hoje você está de luto por:\n{0}</value>
+		<value>Todos sentem um ar pesado pairando pelo fórum. De repente, forças militares entram e prendem vários delegados; vários golpes militares eclodiram! Entre os presos, estão:\n{0}</value>
 	</string>
 	<string key="ArsonistWins">
-		<value>O último sobrevivente é o piromaníaco, que sorri sobre uma pilha de cinzas. Sendo assim, o piromaníaco venceu!</value>
+		<value>O último sobrevivente é o fascista, que alegremente pisa sua bota preta sobre o mundo. Sendo assim, o fascista venceu!</value>
 	</string>
 	<string key="Burn" isgif="true">
-		<value>Sua casa foi das chamas às cinzas, assim como você. Você está frito.</value>
+		<value>Seu país foi das chamas às cinzas, vítima de um golpe militar. Você está frito.</value>
 	</string>
 	<string key="Augur">
-		<value>o Áugure 🦅</value>
+		<value>o Analista 🦅</value>
 	</string><!--{0}: role that is not part of the village-->
 	<string key="AugurSees">
-		<value>Olhando o céu, você vê que os pássaros estão apresentando um padrão de voo estranho. SIsso só pode significar que {0} não faz parte desta aldeia.</value>
-		<value>Os pássaros mostram que {0} não existe nesta aldeia.</value>
+		<value>Coletando relatórios de várias agências, você vê que os alguns padrões estranhos nos dados. Isso só pode significar que {0} não faz parte da sessão.</value>
+		<value>Os relatórios mostram que {0} não existe nesta aldeia.</value>
 	</string>
 	<string key="AboutAugur">
-		<value>Você é o Áugure. Toda manhã, você observa o voo dos pássaros e adivinha um papel que não parte da aldeia. Eles nunca vão te dizer um papel que não faz parte da aldeia duas vezes, então faça bom uso dessa informação!</value>
+		<value>Você é o Analista. Toda manhã, você recebe relatórios no seu email e adivinha um papel que não parte da sessão. Eles nunca vão te dizer um papel que não faz parte da sessão duas vezes, então faça bom uso dessa informação!</value>
 	</string>
 	<string key="RoleInfoAugur">
-		<value>Você é o Áugure. Você vê as coisas também, mas diferente do Vidente ou do Oráculo: você pode ver os papéis que não fazem parte da aldeia, e nunca vê um papel duas vezes!</value>
+		<value>Você é o Analista. Você vê as coisas também, mas diferente da Esipã ou do Itamaraty: você pode ver os papéis que não fazem parte da sessão, e nunca vê um papel duas vezes!</value>
 	</string>
 	<string key="AugurSeesNothing">
-		<value>Não há passáros no céu... Isso significa que você já deve ter visto todos os papéis que não fazem parte da aldeia.</value>
+		<value>Os dados estão se repetindo... Isso significa que você já deve ter visto todos os papéis que não fazem parte da sessão.</value>
 	</string><!--{0}: chosen victim, {1}: wolf who died in flames-->
 	<string key="WolvesVisitBurn">
-		<value>A matilha corre até a casa de {0}, mas as chamas faz com que todos tenham de fugir. {1} ficou preso entre as chamas e queimou até a morte.</value>
+		<value>A facção sobrevoa o espaço aéreo de {0}, mas é logo interceptado pela aeronáutica, que está cuidando dos céus enquanto os militares ocupam os prédios do governo. {1} estava pilotando o bombardeiro e morreu.</value>
 	</string><!--{0}: person who died because they visited a burning house, {1}: "(person) era (role)"-->
 	<string key="DefaultVisitBurn">
-		<value>{0} Devia ter ficado em casa na última noite: ele visitou uma casa que pegou fogo e agora faz parte das cinzas! {1}</value>
+		<value>{0} devia ter ficado em casa na última noite: elx foi interceptado pela aeronáutica ao tentar bombardear um país que virou uma ditadura militar! {1}</value>
 	</string><!--{0}: wolf who died, {1}: "(wolf) era (role)" to specify what kind of wolf it is-->
 	<string key="WolfVisitBurn">
-		<value>Os lobos foram atrás de alimento ontem, mas as chamas surgiram enquanto eles estavam lá! {0} não consegui escapar. {1}</value>
+		<value>Os terroristas foram atrás de vítimas ontem, mas os nacionalistas logo explodiram pra longe do país! {0} não conseguiu escapar. {1}</value>
 	</string>
 	<string key="ChemistKillWiseElder">
-		<value>Vocês encontram vários equipamentos de alquimia e produtos químicos no meio da vila, junto com uma mala. É impossível saber quem é o químico, mas temos certeza de que após seu erro final com o Ancião, ele nunca mais vai voltar a apostar.</value>
+		<value>####Vocês encontram vários equipamentos de alquimia e produtos químicos no meio da vila, junto com uma mala. É impossível saber quem é o químico, mas temos certeza de que após seu erro final com o Ancião, ele nunca mais vai voltar a apostar.</value>
 	</string>
 	<string key="ArsonistWinsOverpower">
-		<value>Apenas {0} e {1} estão na aldeia... {0} sorri, acende um fósforo e o joga aos pés de {1}. Dracarys!</value>
+		<value>Apenas {0} e {1} estão no fórum... {0} sorri, enquanto {1} recebe uma ligação. Elx sai as pressas da sala de reuniões, sabendo que os nacionalistas tomaram o poder do seu país. Anauê!</value>
 	</string>
 	<string key="ArsonistTeamEnd">
-		<value>Time Piromaníaco</value>
+		<value>Partido Fascista</value>
 	</string>
 	<string key="HarlotVisitNotHome">
-		<value>Você planejou uma noite bem quente com {0}, mas ele não estava em casa... Sem brincadeiras esta noite!</value>
+		<value>Você planejou uma longa discussão diplomática com {0}, mas ele não estava no consulado... Deixa pra outro dia!</value>
 	</string>
 </strings>
