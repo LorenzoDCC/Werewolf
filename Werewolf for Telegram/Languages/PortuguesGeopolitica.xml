@@ -1,32 +1,28 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!--
-   Translated by / Traduzido por:
-       Lucas Montuano (@montuano) e Guto Cristino (@guto_xtino)
-   
-		Dan (@vergonha), Danilo (@daniloosoo), Eric Romero (@ericromeero), Gabriel Borjoize (@Borjoize), João Avelã (@SilverQuill), jR750Ac (@jr750ac), Mocha (@MochaKH), Nical(@Nical), Pug (@Capitalista), Saah (@ayylimao), @jr750ac e Nicholas Alexandre (@Nical) 
-		Team leaders: @ayylimao, @Borjoize
+   Português versão Geopolítica! 
 	   
-	   Currently being translated by / Atualmente sendo traduzido por: João Avelã
-	   última edição: 22/05/2019
+	   Atualmente sendo traduzido por: LorenzoDCC
+	   última edição: 09/01/2020
 -->
 <strings>
-	<language name="Português (Brasil Clássico)" base="Português" variant="Brasil Clássico" code="pt-BR" isDefault="true"/>
+	<language name="Português (Geopolítica)" base="Português" variant="Geopolítica" code="pt-BR" isDefault="true"/>
 	<string key="NotInGame" deprecated="true">
 		<value>Você não parece estar em nenhum jogo neste momento...</value>
 	</string>
 	<string key="PlayerStartedGame" isgif="true">
-		<value>{0} iniciou uma nova partida! Aperte o botão para entrar na brincadeira... e provavelmente ser morto :P</value>
+		<value>{0} convocou uma sessão dos G20! Aperte o botão para entrar na discussão... e provavelmente ser sancionado :P</value>
 		<value>Uma nova partida foi iniciada por {0}! Clique no botão para ser devorado(a)!</value>
 	</string>
 	<string key="PlayerStartedChaosGame" isgif="true">
-		<value>{0} deu a loka e começou um jogo caótico. Aperte o botão para começar a diversão... e provavelmente morrer :P</value>
+		<value>{0} convocou a Assembleia Geral! Aperte o botão para começar a gritaria... e talvez levar pau :P</value>
 		<value>Um novo jogo caótico foi iniciado por {0}! Use o botão para entrar nessa loucura!</value>
 	</string>
 	<string key="NoJoinGameRunning" deprecated="true">
-		<value>Você não pode entrar agora! A partida já começou.</value>
+		<value>Você não pode entrar agora! Os países já estão em sessão.</value>
 	</string>
 	<string key="AlreadyJoined" deprecated="true">
-		<value>Você já se juntou à partida!</value>
+		<value>Você já se juntou à sessão!</value>
 	</string>
 	<string key="MinuteLeftToJoin">
 		<value>1 minuto restante para apertar o botão!</value>
@@ -35,10 +31,10 @@
 		<value>{0} segundos restando para apertar o botão!</value>
 	</string>
 	<string key="NotEnoughPlayers">
-		<value>Quantidade mínima de jogadores não foi atingida, cancelando a partida!</value>
+		<value>Não tivemos quórum mínimo, cancelando a partida!</value>
 	</string>
 	<string key="StartingGameWait">
-		<value>A partida está iniciando, por favor aguarde enquanto eu distribuo os papéis e atualizo o banco de dados.</value>
+		<value>A sessão está iniciando, por favor aguarde enquanto eu distribuo os position papers e atualizo o banco de dados.</value>
 	</string>
 	<string key="BannedForExploit" deprecated="true"><!-- 0 - Player name -->
 		<value>{0} foi banido(a) por tentar trapacear (nomes de jogadores não podem começar com barrinhas)</value>
@@ -47,7 +43,7 @@
 		<value>{0}, por favor mude seu nome para entrar na partida</value>
 	</string>
 	<string key="PlayerLimitReached">
-		<value>Sinto muito, o número máximo de jogadores foi atingido!</value>
+		<value>Sinto muito, a sessão está lotada!</value>
 	</string>
 	<string key="PlayerJoined">
 		<value>{0} se juntou à partida. {1} jogadores, {2} mínimo, {3} máximo</value>
@@ -80,61 +76,61 @@
 		<value>Resposta inválida!</value>
 	</string>
 	<string key="WolfVotedKill">
-		<value>{0} votou para devorar {1}</value>
+		<value>{0} votou para bombardear {1}</value>
 	</string>
 	<string key="PlayerVotedLynch">
-		<value>{0} votou para linchar {1}</value>
+		<value>{0} votou para sancionar {1}</value>
 	</string>
 	<string key="IdleKill">
-		<value>{0} não votou por 2 noites seguidas.  As pessoas começavam a se perguntar onde (0) estaria, então {0} cai de repente, morto(a).\n{1}</value>
+		<value>{0} não votou por 2 noites seguidas. (0) foi encontrado morto no meio de uma guerra civil.\n{1}</value>
 	</string>
 	<string key="TraitorTurnWolf">
-		<value>Traidor!!! Agora você é um lobo..</value>
+		<value>Teocrata safado!!! Agora você é um terrorista...</value>
 	</string>
 	<string key="ChoiceAccepted">
 		<value>Opção aceita</value>
 	</string>
 	<string key="BeholderSeer">
-		<value>\nA Vidente é {0}</value>
+		<value>\nA Espiã é {0}</value>
 	</string>
 	<string key="ApprenticeNowSeer">
-		<value>{0} era a Vidente. Como Aprendiz, você pega sua bola de cristal e se torna a nova Vidente.</value>
+		<value>{0} era a Espiã. Como Iniciante, você pega seu passaporte falso e se torna a nova Espiã.</value>
 	</string>
 	<string key="BeholderNewSeer">
-		<value>{0} era uma Aprendiz e agora tomou o lugar de {1} como a nova Vidente.</value>
+		<value>{0} era uma Iniciante e agora tomou o lugar de {1} como a nova Espiã.</value>
 	</string>
 	<string key="SeerSees">
-		<value>Você vê que {0} é {1}!</value>
+		<value>O serviço de inteligência descobre que {0} é {1}!</value>
 	</string>
 	<string key="AskLynch">
-		<value>Quem você gostaria de linchar?</value>
+		<value>Quem você vota pra sancionar?</value>
 	</string>
 	<string key="AskDetect">
 		<value>Quem você gostaria de investigar?</value>
 	</string>
 	<string key="AskShoot">
-		<value>Em quem você gostaria de atirar? {0} bala(s) restantes</value>
+		<value>Quem você gostaria de atacar? {0} míssel(is) restante(s)</value>
 	</string>
 	<string key="AskVisit">
 		<value>A quem você gostaria de fazer uma visitinha?</value>
 	</string>
 	<string key="AskSee">
-		<value>Quem você gostaria de ver?</value>
+		<value>Quem você gostaria de investigar?</value>
 	</string>
 	<string key="AskGuard">
 		<value>Quem você gostaria de proteger?</value>
 	</string>
 	<string key="AskEat">
-		<value>Quem você gostaria de devorar?</value>
+		<value>Quem você gostaria de atacar?</value>
 	</string>
 	<string key="AskHunt">
 		<value>Quem você gostaria de inquirir?</value>
 	</string>
 	<string key="AskRoleModel">
-		<value>Quem será seu grande exemplo?</value>
+		<value>Quem será seu colonizador?</value>
 	</string>
 	<string key="AskConvert">
-		<value>Quem você gostaria de converter para a Seita?</value>
+		<value>Quem você gostaria de converter para a Nova Ordem?</value>
 	</string>
 	<string key="DiscussWith"><!--Leave the leading spaces here please-->
 		<value>  Lembre-se de discutir com {0}</value>
@@ -143,52 +139,52 @@
 		<value> e </value>
 	</string>
 	<string key="RoleInfoCursed">
-		<value>Você foi Amaldiçoado. Por enquanto você é um aldeão, mas se você por atacado pelos lobos, você se tornará um lobo também.</value>
+		<value>Você é um Extremista. Por enquanto você é uma delegação comum, mas se você por atacado pelos terroistas, você se tornará um terrorista também.</value>
 	</string>
 	<string key="RoleInfoDetective">
-		<value>Você é o Detetive, e joga pela Aldeia. Durante o dia, você pode escolher uma pessoa para investigar e descobrir seu papel.  No entanto, ao fazer isso, você pode ser descoberto pelos lobos!</value>
+		<value>Você é a Comissão, e joga pelas Nações. Durante o dia, você pode escolher uma pessoa para investigar e descobrir seu papel.  No entanto, ao fazer isso, você pode ser interceptado por terroristas!</value>
 	</string>
 	<string key="RoleInfoDrunk">
-		<value>Parabéns, você é o Bêbado da Aldeia! Você tem bafo de cachaça, mas joga pela Aldeia. Se os lobos te devorarem, eles vão ficar de ressaca e não vão conseguir atacar ninguém na noite seguinte!</value>
+		<value>Parabéns, você é o ####Bebum da Aldeia! Você tem bafo de cachaça, mas joga pela Aldeia. Se os lobos te devorarem, eles vão ficar de ressaca e não vão conseguir atacar ninguém na noite seguinte!</value>
 	</string>
 	<string key="RoleInfoGuardianAngel">
-		<value>Você é o Anjo da Guarda, e seu papel é proteger a Aldeia. Durante a noite, você pode escolher alguém para proteger.  Porém, se você escolher um lobo, pode acontecer o pior.</value>
+		<value>Você é um Capacete Azul, do departamento de manutenção da paz da ONU, e seu papel é proteger as Nações. Durante a noite, você pode escolher alguém para proteger.  Porém, se você escolher um terrorista, pode acontecer o pior.</value>
 	</string>
 	<string key="RoleInfoGunner">
-		<value>Bang bang, você é a Atiradora.  Você possui 2 balas para ajudar a Aldeia.  Durante o dia, você pode atirar em alguém. Todo mundo ouvirá os tiros e saberão que você é atiradora.</value>
+		<value>Bang bang, você é a OTAN.  Você possui 2 mísseis para ajudar as Nações.  Durante o dia, você pode atacar alguém. Todo mundo ouvirá os tiros e saberão seu papel.</value>
 	</string>
 	<string key="RoleInfoHarlot">
-		<value>Safada! Você é a Cortesã, a aliada sexy da Aldeia. Durante a noite, você poderá escolher alguém para fazer uma visitinha, e descobrir se a pessoa é ou não um lobo.  Porém, se você visitar um lobo, ou alguém que está sendo atacado(a) pelos lobos, você irá morrer.  Se você visitar alguém e os lobos tentarem te matar na sua casa, você irá sobreviver (já que não estava lá).</value>
+		<value>Você é o Embaixador, o aliado viajante das Nações. Durante a noite, você poderá escolher alguém para visitar o consulado, e descobrir se a pessoa é ou não um terrorista.  Porém, se você visitar um terrorista, ou alguém que está sendo atacado(a) pelos terroristas, você irá morrer.  Se você visitar alguém e os terroristas atacarem seu país, você irá sobreviver (já que não estava lá).</value>
 	</string>
 	<string key="RoleInfoTraitor">
-		<value>Traíííííra!! Você é o traidor! Por enquanto, você é um aldeão, mas assim que todos os lobos estiverem mortos, você se transformará em lobisomem.  Se a vidente vir você, você pode ou não ser identificado(a) por ela como um lobo.</value>
+		<value>Você é o Teocrata! Por enquanto, você é uma delegação comum, mas assim que todos os terroristas estiverem mortos, você se transformará em terrorista.  Se o espião ver você, você pode ou não ser identificado(a) por ela como um lobo.</value>
 	</string>
 	<string key="RoleInfoWolf">
-		<value>VOCÊ É UM LOBISOMEM!! Bom pra você! Durante a noite você pode escolher alguém para matar, junto com seu time, os Lobos.</value>
+		<value>VOCÊ É UM TERRORISTA!! Bom pra você! Durante a noite você pode escolher alguém para atacar, junto com seu time - os Terroristas.</value>
 	</string>
 	<string key="RoleInfoSeer">
-		<value>Você é a Vidente, seu papel é guiar a Aldeia na empreitada contra os Lobos.  Durante a noite, você pode escolher alguém para 'ver', e ter seu papel revelado a você. Se revele com cautela, porque os Lobos estão loucos pra devorar você!</value>
+		<value>Você é a Espiã, seu papel é guiar as Nações na empreitada contra os Terroristas.  Durante a noite, você pode escolher alguém para 'espionar', e ter seu papel revelado a você. Se revele com cautela, porque os Terroristas estão loucos pra te pegar!</value>
 	</string>
 	<string key="RoleInfoVillager">
-		<value>Você é um simples aldeão, condenado a passar seus dias arando o campo esprando para ser devorado pelos Lobos, seus inimigos. Uma vez por dia você pode votar em alguém pra mandar pra forca, use seu voto com sabedoria!</value>
+		<value>Você é uma simples Delegação, alheia à presença dos seus inimigos, os Terroristas. Uma vez por dia você pode votar em alguém pra ser sancionado, use seu voto com sabedoria!</value>
 	</string>
 	<string key="RoleInfoTanner">
-		<value>Você é o Suicida, seu time é você mesmo!  Se você for linchado, você ganha automaticamente, sozinho. Seu egoista!</value>
+		<value>Você é o#### Suicida, seu time é você mesmo!  Se você for linchado, você ganha automaticamente, sozinho. Seu egoista!</value>
 	</string>
 	<string key="RoleInfoWildChild">
-		<value>Você é uma Criança Rebelde! Escolha alguém para você se 'afeiçoar' - se ele(a) morrer, você se transformará em lobisomem.</value>
+		<value>Você é um Colonizado! Escolha alguém para ser sua metrópole - se ele(a) morrer, a instabilidade política te transformará em Terrorista.</value>
 	</string>
 	<string key="RoleInfoBeholder">
-		<value>Você é o Observador, você saberá quem é a verdadeira vidente (e não o trouxa). Use isso para ajudar seu time, a Aldeia!</value>
+		<value>Você é o Observador, você saberá quem é a verdadeira espiã (e não o ####trouxa). Use isso para ajudar seu time, as Nações!</value>
 	</string>
 	<string key="RoleInfoApprenticeSeer">
-		<value>Você é a Aprendiz de Vidente, e joga pela Aldeia.  Caso a verdadeira Vidente morra, você tomará seu lugar como Vidente.</value>
+		<value>Você é a Espiã Iniciante, e joga pelas Nações.  Caso a verdadeira Espiã morra, você tomará seu lugar como Espiã.</value>
 	</string>
 	<string key="RoleInfoCultist">
-		<value>Você é um membro da Seita. Durante a noite, você poderá escolher alguém para converter à Seita. Se todos os jogadores restantes ao final do jogo forem da Seita, ela vence!</value>
+		<value>Você é um membro da Nova Ordem Mundial. Durante a noite, você poderá escolher alguém para converter à Ordem. Se todos os jogadores restantes ao final do jogo forem da Nova Ordem, ela vence!</value>
 	</string>
 	<string key="RoleInfoCultistHunter">
-		<value>A Seita está na sua Aldeia tentando converter todo mundo, e você, o Inquisidor, deve proteger a Aldeia!  Durante a noite você poderá escolher alguém para inquirir.  Se ele(a) for da Seita, ele(a) morre.  Caso a Seita tente te converter, o membro mais recente morre.</value>
+		<value>A Nova Ordem está entre as Nações tentando converter todo mundo, e você, a Potência, deve proteger sua hegemonia!  Durante a noite você poderá escolher alguém para inquirir.  Se ele(a) for da Nova Ordem, ele(a) morre.  Caso a Nova Ordem tente te converter, o membro mais recente morre.</value>
 	</string>
 	<string key="LynchTime">
 		<value>
@@ -197,31 +193,31 @@
     </value>
 	</string>
 	<string key="DayTime">
-		<value>Amanheceu na Aldeia.  Vocês têm agora {0} segundos para fazer suas acusações / defesas / discutir.</value>
+		<value>Continua a sessão. Vocês têm agora {0} segundos para fazer suas acusações / defesas / discutir.</value>
 	</string>
 	<string key="NightTime">
-		<value>Caiu a noite.  Todos vão dormir bastante cansados após mais um dia bem estressante.  Jogadores: vocês têm {0} segundos para usar suas ações!</value>
+		<value>Sessão em pausa. Todos vão dormir bastante cansados após mais um dia bem estressante.  Jogadores: vocês têm {0} segundos para usar suas ações!</value>
 	</string>
 	<string key="LynchKill">
-		<value>Os aldeões votaram, em meio a dúvidas e suspeitas. {0} está morto(a). {1}</value>
+		<value>Os delegados votaram, em meio a dúvidas e suspeitas. {0} está morto(a). {1}</value>
 	</string>
 	<string key="LynchTie">
-		<value>Incapazes de chegar a uma decisão final sobre quem linchar, a multidão revoltada retorna para suas casas com seus forcados e tochas, frustrados...</value>
+		<value>Incapazes de chegar a uma decisão final sobre quem sancionar, as delegações paranoicas retornam para suas camas com seus documentos, frustrados...</value>
 	</string>
 	<string key="NoLynchVotes">
-		<value>Alguma coisa está cheirando mal, ninguém votou!  Ninguém será linchado hoje.....</value>
+		<value>Alguma coisa está cheirando mal, ninguém votou!  Ninguém será sancionado hoje.....</value>
 	</string>
 	<string key="DetectiveEaten">
-		<value>Os aldeões se reúnem durante a manhã, mas ninguém consegue achar {0} entre eles.  Eles correm para sua casa e encontram {0} despedaçado, com um distintivo enferrujado enfiado em sua goela. {0} Era o Detetive!</value>
+		<value>As delegações se reúnem durante a manhã, mas ninguém consegue achar {0} entre eles.  Um oficial deseperado entra na sala e avisa: os terroristas sequestraram {0}! {0} era a Comissão!</value>
 	</string>
 	<string key="GuardianEaten">
 		<value>A manhã chega e, para a surpresa de todos, empalado no topo da cruz da igreja estava o corpo de {0}, o Anjo da Guarda, sem vida.</value>
 	</string>
 	<string key="GunnerEaten">
-		<value>Todos saem de casa e então encontram pedaços de uma espingarda despedaçada... em seguida pernas... então dedos...  e flutuando no chafariz da praça, o corpo de {0}, morto(a) por lobisomens.  Vocês perderam sua atiradora.</value>
+		<value>Todos saem de casa e então encontram pedaços de uma espingarda despedaçada... em seguida pernas... então dedos...  e flutuando no chafariz da praça, o corpo de {0}, morto(a) por terroristas.  Vocês perderam a OTAN.</value>
 	</string>
 	<string key="SeerEaten">
-		<value>Os aldeões acordam ao amanhecer e encontram pedaços do que um dia foi {0} em cima de uma mesa de búzios e com cartas de tarô espalhadas pelo chão.  A Vidente está morta.</value>
+		<value>Os aldeões acordam ao amanhecer e encontram pedaços do que um dia foi {0} em cima de uma mesa de búzios e com cartas de tarô espalhadas pelo chão.  A Espiã está morta.</value>
 	</string>
 	<string key="DrunkEaten">
 		<value>Todos acordam com um forte cheiro de álcool e madeira em chamas...  O boteco está pegando fogo!!!!  Após apagar o incêndio, os restos de {0} são encontrados, tostadinhos....</value>
@@ -344,25 +340,25 @@
 		<value>Você invade a casa de {0} mas não há nenhum sinal da Seita.  Ele(a) não faz parte da Seita... Ainda...</value>
 	</string>
 	<string key="WildChildToWolves">
-		<value>O grande exemplo de vida de {0} acabou de morrer! Em seu ataque de fúria, ele(a) se tornou um lobisomem!</value>
+		<value>A metrópole de {0} acabou de morrer! Jogado em instabilidade política, elx se tornou um terrorista!</value>
 	</string>
 	<string key="WildChildTransform">
 		<value>{0} foi morto(a)! Num ataque de fúria, você se torna um lobisomem! Seus novos companheiros são: {1}</value>
 	</string><!-- Villager, Drunk, Harlot, Seer, Traitor, GuardianAngel, Detective, Wolf, Cursed, Gunner, Tanner, Fool, WildChild, Beholder, ApprenticeSeer, Cultist, CultistHunter-->
 	<string key="Villager">
-		<value>um Aldeão 👱</value>
+		<value>o Delegado 👱</value>
 	</string>
 	<string key="Drunk">
-		<value>o Bêbado 🍻</value>
+		<value>o Retrógrado 🍻</value>
 	</string>
 	<string key="Harlot">
 		<value>a Cortesã 💋</value>
 	</string>
 	<string key="Seer">
-		<value>a Vidente 👳</value>
+		<value>a Espiã 👳</value>
 	</string>
 	<string key="Traitor">
-		<value>o Traidor 🖕</value>
+		<value>o Teocrata 🖕</value>
 	</string>
 	<string key="GuardianAngel">
 		<value>o Anjo da Guarda 👼</value>
@@ -371,13 +367,13 @@
 		<value>o Detetive 🕵</value>
 	</string>
 	<string key="Wolf">
-		<value>um Lobo 🐺</value>
+		<value>um Terrorista 🐺</value>
 	</string>
 	<string key="Cursed">
-		<value>o Amaldiçoado 😾</value>
+		<value>o Extremista 😾</value>
 	</string>
 	<string key="Gunner">
-		<value>a Atiradora 🔫</value>
+		<value>a OTAN 🔫</value>
 	</string>
 	<string key="Tanner">
 		<value>o Suicida 👺</value>
@@ -386,13 +382,13 @@
 		<value>o(a) Trouxa 🃏</value>
 	</string>
 	<string key="WildChild">
-		<value>a Criança Rebelde 👶</value>
+		<value>o Colonizado 👶</value>
 	</string>
 	<string key="Beholder">
 		<value>o Observador 👁</value>
 	</string>
 	<string key="ApprenticeSeer">
-		<value>a Aprendiz de Vidente 🙇</value>
+		<value>a Aprendiz de Espião 🙇</value>
 	</string>
 	<string key="Cultist">
 		<value>um membro da Seita 👤</value>
@@ -404,10 +400,10 @@
 		<value>Fugiu</value>
 	</string>
 	<string key="Dead">
-		<value>💀 MORTA</value>
+		<value>💀 AUSENTE</value>
 	</string>
 	<string key="Alive">
-		<value>🙂 Vivo(a)</value>
+		<value>🙂 Presente e votante</value>
 	</string>
 	<string key="PlayersAlive">
 		<value>Jogadores vivos</value>
